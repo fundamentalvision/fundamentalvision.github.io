@@ -153,3 +153,16 @@
   image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
   plugin: sources.py
   file: sources.yaml
+- id: arxiv:1605.06409
+  title: 'R-FCN: Object Detection via Region-based Fully Convolutional Networks'
+  authors:
+  - Jifeng Dai
+  - Yi Li
+  - Kaiming He
+  - Jian Sun
+  publisher: arXiv
+  date: '2016-06-22'
+  link: https://arxiv.org/abs/1605.06409
+  image: https://img0.baidu.com/it/u=2070191197,1943596709&fm=253&fmt=auto&app=138&f=PNG?w=533&h=500
+  plugin: sources.py
+  file: sources.yaml
