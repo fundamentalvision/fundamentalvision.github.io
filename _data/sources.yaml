@@ -30,7 +30,7 @@
   buttons:
     - type: paper
       link: https://arxiv.org/abs/1605.06409
-    - type: code
+    - type: source
       link: https://github.com/daijifeng001/R-FCN
 
 - id: arxiv:2010.04159
@@ -41,7 +41,7 @@
   buttons:
     - type: paper
       link: https://arxiv.org/abs/2010.04159
-    - type: code
+    - type: source
       link: https://github.com/fundamentalvision/Deformable-DETR
 
 - id: arxiv:1703.06211
@@ -52,7 +52,7 @@
   buttons:
     - type: paper
       link: https://arxiv.org/abs/1703.06211
-    - type: code
+    - type: source
       link: https://github.com/msracver/Deformable-ConvNets
 
 - id: arxiv:2211.05778
@@ -70,7 +70,7 @@
   buttons:
     - type: paper
       link: https://arxiv.org/abs/1906.07155
-    - type: code
+    - type: source
       link: https://github.com/open-mmlab/mmdetection
 
 - id: arxiv:1512.04412
@@ -81,7 +81,7 @@
   buttons:
     - type: paper
       link: https://arxiv.org/abs/1512.04412
-    - type: code
+    - type: source
       link: https://github.com/daijifeng001/MNC
 
 - id: arxiv:1811.11168
@@ -91,7 +91,7 @@
   buttons:
     - type: paper
       link: https://arxiv.org/abs/1811.11168
-    - type: code
+    - type: source
       link: https://github.com/msracver/Deformable-ConvNets
 
 - id: arxiv:1711.11575
@@ -101,7 +101,7 @@
   buttons:
     - type: paper
       link: https://arxiv.org/abs/1711.11575
-    - type: code
+    - type: source
       link: https://github.com/msracver/Relation-Networks-for-Object-Detection
 
 - id: arxiv:1611.07709
@@ -111,7 +111,7 @@
   buttons:
     - type: paper
       link: https://arxiv.org/abs/1611.07709
-    - type: code
+    - type: source
       link: https://github.com/msracver/FCIS
 
 - id: arxiv:1503.01640
@@ -129,7 +129,7 @@
   buttons:
     - type: paper
       link: https://arxiv.org/abs/1604.05144
-    - type: code
+    - type: source
       link: http://www.jifengdai.org/downloads/scribble_sup/
 
 - id: arxiv:1611.07715
@@ -139,7 +139,7 @@
   buttons:
     - type: paper
       link: https://arxiv.org/abs/1611.07715
-    - type: code
+    - type: source
       link: https://github.com/msracver/Deep-Feature-Flow
 
 - id: arxiv:1703.10025
@@ -149,7 +149,7 @@
   buttons:
     - type: paper
       link: https://arxiv.org/abs/1703.10025
-    - type: code
+    - type: source
       link: https://github.com/msracver/Flow-Guided-Feature-Aggregation
 
 - id: arxiv:1412.1283
@@ -167,7 +167,7 @@
   buttons:
     - type: paper
       link: https://arxiv.org/abs/1908.08530
-    - type: code
+    - type: source
       link: https://github.com/jackroos/VL-BERT
 
 - id: arxiv:2112.01522
@@ -177,7 +177,7 @@
   buttons:
     - type: paper
       link: https://arxiv.org/abs/2112.01522
-    - type: code
+    - type: source
       link: https://github.com/fundamentalvision/Uni-Perceiver
 
 - id: arxiv:2206.04674
@@ -187,7 +187,7 @@
   buttons:
     - type: paper
       link: https://arxiv.org/abs/2206.04674
-    - type: code
+    - type: source
       link: https://github.com/fundamentalvision/Uni-Perceiver
 
 - id: arxiv:2211.09808
@@ -205,7 +205,7 @@
   buttons:
     - type: paper
       link: https://arxiv.org/abs/2305.11175
-    - type: code
+    - type: source
       link: https://github.com/OpenGVLab/VisionLLM
 
 - id: arxiv:2203.17270
@@ -216,7 +216,7 @@
   buttons:
     - type: paper
       link: https://arxiv.org/abs/2203.17270
-    - type: code
+    - type: source
       link: https://github.com/zhiqi-li/BEVFormer
 
 - id: arxiv:2211.10439
@@ -234,7 +234,7 @@
   buttons:
     - type: paper
       link: https://arxiv.org/abs/2212.10156
-    - type: code
+    - type: source
       link: https://github.com/opendrivelab/uniad
 
 - id: arxiv:2305.17144
@@ -244,5 +244,5 @@
   buttons:
     - type: paper
       link: https://arxiv.org/abs/2305.17144
-    - type: code
+    - type: source
       link: https://github.com/OpenGVLab/GITM
