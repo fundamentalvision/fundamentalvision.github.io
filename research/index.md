@@ -18,6 +18,14 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 {% include citation.html lookup="Deformable DETR: Deformable Transformers for End-to-End Object Detection" style="rich" %}
 
+{% include citation.html lookup="Deformable Convolutional Networks" style="rich" %}
+
+{% include citation.html lookup="InternImage: Exploring Large-Scale Vision Foundation Models with Deformable Convolutions" style="rich" %}
+
+{% include citation.html lookup="Instance-aware Semantic Segmentation via Multi-task Network Cascades" style="rich" %}
+
+{% include citation.html lookup="Deformable ConvNets v2: More Deformable, Better Results" style="rich" %}
+
 {% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
 
 {% include section.html %}

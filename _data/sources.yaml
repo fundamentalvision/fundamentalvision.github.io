@@ -25,10 +25,71 @@
 - id: arxiv:1605.06409
   type: paper
   publisher: Neural Information Processing Systems (NIPS), 2016
-  image: https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/v2/cover/EIeXboRbDoXy2nx2K7XcXrSynW5/?fallback_source=1&height=1280&mount_node_token=QYbfd96BqoL1jkxUaxIcPdi3nph&mount_point=docx_image&policy=equal&width=1280
-  # https://img0.baidu.com/it/u=2070191197,1943596709&fm=253&fmt=auto&app=138&f=PNG?w=533&h=500
-  description: The 3-rd influential paper in Neural Information Processing Systems (NIPS), 2016. Pytorch visual operator library.
+  image: images/R-FCN.png
+  description: The 3-rd most influential paper in Neural Information Processing Systems (NIPS), 2016. Pytorch visual operator library.
+  buttons:
+    - type: paper
+      link: https://arxiv.org/abs/1605.06409
+    - type: code
+      link: https://github.com/daijifeng001/R-FCN
 
 - id: arxiv:2010.04159
   type: paper
   publisher: International Conference on Learning Representations (ICLR), 2021.(Oral)
+  image: images/2010.04159.png
+  description: The 2-nd most influential paper in International Conference on Learning Representations (ICLR), 2021.
+  buttons:
+    - type: paper
+      link: https://arxiv.org/abs/2010.04159
+    - type: code
+      link: https://github.com/fundamentalvision/Deformable-DETR
+
+- id: arxiv:1703.06211
+  type: paper
+  publisher: International Conference on Computer Vision (ICCV), 2017. (Oral)
+  image: images/1703.06211.png
+  description: The 6-th most influential paper in International Conference on Computer Vision (ICCV), 2017. Pytorch visual operator library.
+  buttons:
+    - type: paper
+      link: https://arxiv.org/abs/1703.06211
+    - type: code
+      link: https://github.com/msracver/Deformable-ConvNets
+
+- id: arxiv:2211.05778
+  type: paper
+  publisher: IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2023. (Highlight)
+  image: images/2211.05778.png
+  buttons:
+    - type: paper
+      link: https://arxiv.org/abs/2211.05778
+
+- id: arxiv:1906.07155
+  type: paper
+  publisher: IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2019.
+  image: images/1906.07155.png
+  buttons:
+    - type: paper
+      link: https://arxiv.org/abs/1906.07155
+    - type: code
+      link: https://github.com/open-mmlab/mmdetection
+
+- id: arxiv:1512.04412
+  type: paper
+  publisher: IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2016. (Oral)
+  image: images/1512.04412.png
+  description: 1-st place winner of the COCO 2015 segmentation challenge. (0.36 sec/image test speed using VGG-16 net)
+  buttons:
+    - type: paper
+      link: https://arxiv.org/abs/1512.04412
+    - type: code
+      link: https://github.com/daijifeng001/MNC
+
+- id: arxiv:1811.11168
+  type: paper
+  publisher: IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2019.
+  image: images/1811.11168.png
+  buttons:
+    - type: paper
+      link: https://arxiv.org/abs/1811.11168
+    - type: code
+      link: https://github.com/msracver/Deformable-ConvNets
