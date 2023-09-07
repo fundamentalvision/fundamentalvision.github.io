@@ -24,7 +24,7 @@
 
 - id: arxiv:1605.06409
   type: paper
-  publisher: Neural Information Processing Systems (NIPS), 2016
+  publisher: Neural Information Processing Systems (NIPS), 2016.
   image: images/R-FCN.png
   description: The 3-rd most influential paper in Neural Information Processing Systems (NIPS), 2016. Pytorch visual operator library.
   buttons:
@@ -93,3 +93,156 @@
       link: https://arxiv.org/abs/1811.11168
     - type: code
       link: https://github.com/msracver/Deformable-ConvNets
+
+- id: arxiv:1711.11575
+  type: paper
+  publisher: IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2018. (Oral)
+  image: images/1711.11575.png
+  buttons:
+    - type: paper
+      link: https://arxiv.org/abs/1711.11575
+    - type: code
+      link: https://github.com/msracver/Relation-Networks-for-Object-Detection
+
+- id: arxiv:1611.07709
+  type: paper
+  publisher: IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2017. (Spotlight)
+  image: images/1611.07709.png
+  buttons:
+    - type: paper
+      link: https://arxiv.org/abs/1611.07709
+    - type: code
+      link: https://github.com/msracver/FCIS
+
+- id: arxiv:1503.01640
+  type: paper
+  publisher: International Conference on Computer Vision (ICCV), 2015.
+  image: images/1503.01640.png
+  buttons:
+    - type: paper
+      link: https://arxiv.org/abs/1503.01640
+
+- id: arxiv:1604.05144
+  type: paper
+  publisher: IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2016. (Oral)
+  image: images/1604.05144.png
+  buttons:
+    - type: paper
+      link: https://arxiv.org/abs/1604.05144
+    - type: code
+      link: http://www.jifengdai.org/downloads/scribble_sup/
+
+- id: arxiv:1611.07715
+  type: paper
+  publisher: IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2017.
+  image: images/1611.07715.png
+  buttons:
+    - type: paper
+      link: https://arxiv.org/abs/1611.07715
+    - type: code
+      link: https://github.com/msracver/Deep-Feature-Flow
+
+- id: arxiv:1703.10025
+  type: paper
+  publisher: International Conference on Computer Vision (ICCV), 2017.
+  image: images/1703.10025.png
+  buttons:
+    - type: paper
+      link: https://arxiv.org/abs/1703.10025
+    - type: code
+      link: https://github.com/msracver/Flow-Guided-Feature-Aggregation
+
+- id: arxiv:1412.1283
+  type: paper
+  publisher: IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2015.
+  image: images/1412.1283.png
+  buttons:
+    - type: paper
+      link: https://arxiv.org/abs/1412.1283
+
+- id: arxiv:1908.08530
+  type: paper
+  publisher: International Conference on Learning Representations (ICLR), 2020.
+  image: images/1908.08530.png
+  buttons:
+    - type: paper
+      link: https://arxiv.org/abs/1908.08530
+    - type: code
+      link: https://github.com/jackroos/VL-BERT
+
+- id: arxiv:2112.01522
+  type: paper
+  publisher: IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2022.
+  image: images/2112.01522.png
+  buttons:
+    - type: paper
+      link: https://arxiv.org/abs/2112.01522
+    - type: code
+      link: https://github.com/fundamentalvision/Uni-Perceiver
+
+- id: arxiv:2206.04674
+  type: paper
+  publisher: Neural Information Processing Systems (NIPS), 2022. (Spotlight)
+  image: images/2206.04674.png
+  buttons:
+    - type: paper
+      link: https://arxiv.org/abs/2206.04674
+    - type: code
+      link: https://github.com/fundamentalvision/Uni-Perceiver
+
+- id: arxiv:2211.09808
+  type: paper
+  publisher: IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2023. (Highlight)
+  image: images/2211.09808.png
+  buttons:
+    - type: paper
+      link: https://arxiv.org/abs/2211.09808
+
+- id: arxiv:2305.11175
+  type: paper
+  publisher: Arxiv Tech Report, 2023.
+  image: images/2305.11175.png
+  buttons:
+    - type: paper
+      link: https://arxiv.org/abs/2305.11175
+    - type: code
+      link: https://github.com/OpenGVLab/VisionLLM
+
+- id: arxiv:2203.17270
+  type: paper
+  publisher: European Conference on Computer Vision (ECCV), 2022.
+  image: images/2203.17270.png
+  description: The 6-th most influential paper in European Conference on Computer Vision (ECCV), 2022. The 100 most cited AI papers of 2022. Automatic-driving competition Waymo 2022 champion.
+  buttons:
+    - type: paper
+      link: https://arxiv.org/abs/2203.17270
+    - type: code
+      link: https://github.com/zhiqi-li/BEVFormer
+
+- id: arxiv:2211.10439
+  type: paper
+  publisher: IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2023. (Highlight)
+  image: images/2211.10439.png
+  buttons:
+    - type: paper
+      link: https://arxiv.org/abs/2211.10439
+
+- id: arxiv:2212.10156
+  type: paper
+  publisher: IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2023. (Best Paper Award)
+  image: images/2212.10156.png
+  buttons:
+    - type: paper
+      link: https://arxiv.org/abs/2212.10156
+    - type: code
+      link: https://github.com/opendrivelab/uniad
+
+- id: arxiv:2305.17144
+  type: paper
+  publisher: Arxiv Tech Report, 2023.
+  image: images/2305.17144.png
+  buttons:
+    - type: paper
+      link: https://arxiv.org/abs/2305.17144
+    - type: code
+      link: https://github.com/OpenGVLab/GITM
