@@ -16,6 +16,8 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 {% include citation.html lookup="R-FCN: Object Detection via Region-based Fully Convolutional Networks" style="rich" %}
 
+{% include citation.html lookup="Deformable DETR: Deformable Transformers for End-to-End Object Detection" style="rich" %}
+
 {% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
 
 {% include section.html %}
