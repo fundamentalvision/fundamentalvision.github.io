@@ -159,10 +159,27 @@
   - Yi Li
   - Kaiming He
   - Jian Sun
-  publisher: arXiv
+  publisher: Neural Information Processing Systems (NIPS), 2016
   date: '2016-06-22'
   link: https://arxiv.org/abs/1605.06409
   type: paper
-  image: https://img0.baidu.com/it/u=2070191197,1943596709&fm=253&fmt=auto&app=138&f=PNG?w=533&h=500
+  image: https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/v2/cover/EIeXboRbDoXy2nx2K7XcXrSynW5/?fallback_source=1&height=1280&mount_node_token=QYbfd96BqoL1jkxUaxIcPdi3nph&mount_point=docx_image&policy=equal&width=1280
+  description: The 3-rd influential paper in Neural Information Processing Systems
+    (NIPS), 2016. Pytorch visual operator library.
+  plugin: sources.py
+  file: sources.yaml
+- id: arxiv:2010.04159
+  title: 'Deformable DETR: Deformable Transformers for End-to-End Object Detection'
+  authors:
+  - Xizhou Zhu
+  - Weijie Su
+  - Lewei Lu
+  - Bin Li
+  - Xiaogang Wang
+  - Jifeng Dai
+  publisher: International Conference on Learning Representations (ICLR), 2021.(Oral)
+  date: '2021-03-19'
+  link: https://arxiv.org/abs/2010.04159
+  type: paper
   plugin: sources.py
   file: sources.yaml
