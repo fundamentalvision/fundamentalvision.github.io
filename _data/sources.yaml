@@ -1,6 +1,6 @@
 - id: doi:10.1371/journal.pcbi.1007128
   type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  description: test description.
   date: 2020-12-4
   image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
   buttons:
@@ -23,4 +23,5 @@
   image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
 
 - id: arxiv:1605.06409
+  type: paper
   image: https://img0.baidu.com/it/u=2070191197,1943596709&fm=253&fmt=auto&app=138&f=PNG?w=533&h=500
