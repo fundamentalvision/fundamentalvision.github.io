@@ -159,7 +159,7 @@
   - Yi Li
   - Kaiming He
   - Jian Sun
-  publisher: Neural Information Processing Systems (NIPS), 2016
+  publisher: Neural Information Processing Systems (NIPS), 2016.
   date: '2016-06-22'
   link: https://arxiv.org/abs/1605.06409
   type: paper
@@ -325,5 +325,377 @@
     link: https://arxiv.org/abs/1811.11168
   - type: code
     link: https://github.com/msracver/Deformable-ConvNets
+  plugin: sources.py
+  file: sources.yaml
+- id: arxiv:1711.11575
+  title: Relation Networks for Object Detection
+  authors:
+  - Han Hu
+  - Jiayuan Gu
+  - Zheng Zhang
+  - Jifeng Dai
+  - Yichen Wei
+  publisher: IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2018.
+    (Oral)
+  date: '2018-06-15'
+  link: https://arxiv.org/abs/1711.11575
+  type: paper
+  image: images/1711.11575.png
+  buttons:
+  - type: paper
+    link: https://arxiv.org/abs/1711.11575
+  - type: code
+    link: https://github.com/msracver/Relation-Networks-for-Object-Detection
+  plugin: sources.py
+  file: sources.yaml
+- id: arxiv:1611.07709
+  title: Fully Convolutional Instance-aware Semantic Segmentation
+  authors:
+  - Yi Li
+  - Haozhi Qi
+  - Jifeng Dai
+  - Xiangyang Ji
+  - Yichen Wei
+  publisher: IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2017.
+    (Spotlight)
+  date: '2017-04-11'
+  link: https://arxiv.org/abs/1611.07709
+  type: paper
+  image: images/1611.07709.png
+  buttons:
+  - type: paper
+    link: https://arxiv.org/abs/1611.07709
+  - type: code
+    link: https://github.com/msracver/FCIS
+  plugin: sources.py
+  file: sources.yaml
+- id: arxiv:1503.01640
+  title: 'BoxSup: Exploiting Bounding Boxes to Supervise Convolutional Networks for
+    Semantic Segmentation'
+  authors:
+  - Jifeng Dai
+  - Kaiming He
+  - Jian Sun
+  publisher: International Conference on Computer Vision (ICCV), 2015.
+  date: '2015-05-19'
+  link: https://arxiv.org/abs/1503.01640
+  type: paper
+  image: images/1503.01640.png
+  buttons:
+  - type: paper
+    link: https://arxiv.org/abs/1503.01640
+  plugin: sources.py
+  file: sources.yaml
+- id: arxiv:1604.05144
+  title: 'ScribbleSup: Scribble-Supervised Convolutional Networks for Semantic Segmentation'
+  authors:
+  - Di Lin
+  - Jifeng Dai
+  - Jiaya Jia
+  - Kaiming He
+  - Jian Sun
+  publisher: IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2016.
+    (Oral)
+  date: '2016-04-19'
+  link: https://arxiv.org/abs/1604.05144
+  type: paper
+  image: images/1604.05144.png
+  buttons:
+  - type: paper
+    link: https://arxiv.org/abs/1604.05144
+  - type: code
+    link: http://www.jifengdai.org/downloads/scribble_sup/
+  plugin: sources.py
+  file: sources.yaml
+- id: arxiv:1611.07715
+  title: Deep Feature Flow for Video Recognition
+  authors:
+  - Xizhou Zhu
+  - Yuwen Xiong
+  - Jifeng Dai
+  - Lu Yuan
+  - Yichen Wei
+  publisher: IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2017.
+  date: '2017-06-06'
+  link: https://arxiv.org/abs/1611.07715
+  type: paper
+  image: images/1611.07715.png
+  buttons:
+  - type: paper
+    link: https://arxiv.org/abs/1611.07715
+  - type: code
+    link: https://github.com/msracver/Deep-Feature-Flow
+  plugin: sources.py
+  file: sources.yaml
+- id: arxiv:1703.10025
+  title: Flow-Guided Feature Aggregation for Video Object Detection
+  authors:
+  - Xizhou Zhu
+  - Yujie Wang
+  - Jifeng Dai
+  - Lu Yuan
+  - Yichen Wei
+  publisher: International Conference on Computer Vision (ICCV), 2017.
+  date: '2017-08-21'
+  link: https://arxiv.org/abs/1703.10025
+  type: paper
+  image: images/1703.10025.png
+  buttons:
+  - type: paper
+    link: https://arxiv.org/abs/1703.10025
+  - type: code
+    link: https://github.com/msracver/Flow-Guided-Feature-Aggregation
+  plugin: sources.py
+  file: sources.yaml
+- id: arxiv:1412.1283
+  title: Convolutional Feature Masking for Joint Object and Stuff Segmentation
+  authors:
+  - Jifeng Dai
+  - Kaiming He
+  - Jian Sun
+  publisher: IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2015.
+  date: '2016-11-18'
+  link: https://arxiv.org/abs/1412.1283
+  type: paper
+  image: images/1412.1283.png
+  buttons:
+  - type: paper
+    link: https://arxiv.org/abs/1412.1283
+  plugin: sources.py
+  file: sources.yaml
+- id: arxiv:1908.08530
+  title: 'VL-BERT: Pre-training of Generic Visual-Linguistic Representations'
+  authors:
+  - Weijie Su
+  - Xizhou Zhu
+  - Yue Cao
+  - Bin Li
+  - Lewei Lu
+  - Furu Wei
+  - Jifeng Dai
+  publisher: International Conference on Learning Representations (ICLR), 2020.
+  date: '2020-02-19'
+  link: https://arxiv.org/abs/1908.08530
+  type: paper
+  image: images/1908.08530.png
+  buttons:
+  - type: paper
+    link: https://arxiv.org/abs/1908.08530
+  - type: code
+    link: https://github.com/jackroos/VL-BERT
+  plugin: sources.py
+  file: sources.yaml
+- id: arxiv:2112.01522
+  title: 'Uni-Perceiver: Pre-training Unified Architecture for Generic Perception
+    for Zero-shot and Few-shot Tasks'
+  authors:
+  - Xizhou Zhu
+  - Jinguo Zhu
+  - Hao Li
+  - Xiaoshi Wu
+  - Xiaogang Wang
+  - Hongsheng Li
+  - Xiaohua Wang
+  - Jifeng Dai
+  publisher: IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2022.
+  date: '2021-12-03'
+  link: https://arxiv.org/abs/2112.01522
+  type: paper
+  image: images/2112.01522.png
+  buttons:
+  - type: paper
+    link: https://arxiv.org/abs/2112.01522
+  - type: code
+    link: https://github.com/fundamentalvision/Uni-Perceiver
+  plugin: sources.py
+  file: sources.yaml
+- id: arxiv:2206.04674
+  title: 'Uni-Perceiver-MoE: Learning Sparse Generalist Models with Conditional MoEs'
+  authors:
+  - Jinguo Zhu
+  - Xizhou Zhu
+  - Wenhai Wang
+  - Xiaohua Wang
+  - Hongsheng Li
+  - Xiaogang Wang
+  - Jifeng Dai
+  publisher: Neural Information Processing Systems (NIPS), 2022. (Spotlight)
+  date: '2022-07-06'
+  link: https://arxiv.org/abs/2206.04674
+  type: paper
+  image: images/2206.04674.png
+  buttons:
+  - type: paper
+    link: https://arxiv.org/abs/2206.04674
+  - type: code
+    link: https://github.com/fundamentalvision/Uni-Perceiver
+  plugin: sources.py
+  file: sources.yaml
+- id: arxiv:2211.09808
+  title: 'Uni-Perceiver v2: A Generalist Model for Large-Scale Vision and Vision-Language
+    Tasks'
+  authors:
+  - Hao Li
+  - Jinguo Zhu
+  - Xiaohu Jiang
+  - Xizhou Zhu
+  - Hongsheng Li
+  - Chun Yuan
+  - Xiaohua Wang
+  - Yu Qiao
+  - Xiaogang Wang
+  - Wenhai Wang
+  - Jifeng Dai
+  publisher: IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2023.
+    (Highlight)
+  date: '2022-11-18'
+  link: https://arxiv.org/abs/2211.09808
+  type: paper
+  image: images/2211.09808.png
+  buttons:
+  - type: paper
+    link: https://arxiv.org/abs/2211.09808
+  plugin: sources.py
+  file: sources.yaml
+- id: arxiv:2305.11175
+  title: 'VisionLLM: Large Language Model is also an Open-Ended Decoder for Vision-Centric
+    Tasks'
+  authors:
+  - Wenhai Wang
+  - Zhe Chen
+  - Xiaokang Chen
+  - Jiannan Wu
+  - Xizhou Zhu
+  - Gang Zeng
+  - Ping Luo
+  - Tong Lu
+  - Jie Zhou
+  - Yu Qiao
+  - Jifeng Dai
+  publisher: Arxiv Tech Report, 2023.
+  date: '2023-05-26'
+  link: https://arxiv.org/abs/2305.11175
+  type: paper
+  image: images/2305.11175.png
+  buttons:
+  - type: paper
+    link: https://arxiv.org/abs/2305.11175
+  - type: code
+    link: https://github.com/OpenGVLab/VisionLLM
+  plugin: sources.py
+  file: sources.yaml
+- id: arxiv:2203.17270
+  title: 'BEVFormer: Learning Bird''s-Eye-View Representation from Multi-Camera Images
+    via Spatiotemporal Transformers'
+  authors:
+  - Zhiqi Li
+  - Wenhai Wang
+  - Hongyang Li
+  - Enze Xie
+  - Chonghao Sima
+  - Tong Lu
+  - Qiao Yu
+  - Jifeng Dai
+  publisher: European Conference on Computer Vision (ECCV), 2022.
+  date: '2022-07-14'
+  link: https://arxiv.org/abs/2203.17270
+  type: paper
+  image: images/2203.17270.png
+  description: The 6-th most influential paper in European Conference on Computer
+    Vision (ECCV), 2022. The 100 most cited AI papers of 2022. Automatic-driving competition
+    Waymo 2022 champion.
+  buttons:
+  - type: paper
+    link: https://arxiv.org/abs/2203.17270
+  - type: code
+    link: https://github.com/zhiqi-li/BEVFormer
+  plugin: sources.py
+  file: sources.yaml
+- id: arxiv:2211.10439
+  title: 'BEVFormer v2: Adapting Modern Image Backbones to Bird''s-Eye-View Recognition
+    via Perspective Supervision'
+  authors:
+  - Chenyu Yang
+  - Yuntao Chen
+  - Hao Tian
+  - Chenxin Tao
+  - Xizhou Zhu
+  - Zhaoxiang Zhang
+  - Gao Huang
+  - Hongyang Li
+  - Yu Qiao
+  - Lewei Lu
+  - Jie Zhou
+  - Jifeng Dai
+  publisher: IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2023.
+    (Highlight)
+  date: '2022-11-21'
+  link: https://arxiv.org/abs/2211.10439
+  type: paper
+  image: images/2211.10439.png
+  buttons:
+  - type: paper
+    link: https://arxiv.org/abs/2211.10439
+  plugin: sources.py
+  file: sources.yaml
+- id: arxiv:2212.10156
+  title: Planning-oriented Autonomous Driving
+  authors:
+  - Yihan Hu
+  - Jiazhi Yang
+  - Li Chen
+  - Keyu Li
+  - Chonghao Sima
+  - Xizhou Zhu
+  - Siqi Chai
+  - Senyao Du
+  - Tianwei Lin
+  - Wenhai Wang
+  - Lewei Lu
+  - Xiaosong Jia
+  - Qiang Liu
+  - Jifeng Dai
+  - Yu Qiao
+  - Hongyang Li
+  publisher: IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2023.
+    (Best Paper Award)
+  date: '2023-03-24'
+  link: https://arxiv.org/abs/2212.10156
+  type: paper
+  image: images/2212.10156.png
+  buttons:
+  - type: paper
+    link: https://arxiv.org/abs/2212.10156
+  - type: code
+    link: https://github.com/opendrivelab/uniad
+  plugin: sources.py
+  file: sources.yaml
+- id: arxiv:2305.17144
+  title: 'Ghost in the Minecraft: Generally Capable Agents for Open-World Environments
+    via Large Language Models with Text-based Knowledge and Memory'
+  authors:
+  - Xizhou Zhu
+  - Yuntao Chen
+  - Hao Tian
+  - Chenxin Tao
+  - Weijie Su
+  - Chenyu Yang
+  - Gao Huang
+  - Bin Li
+  - Lewei Lu
+  - Xiaogang Wang
+  - Yu Qiao
+  - Zhaoxiang Zhang
+  - Jifeng Dai
+  publisher: Arxiv Tech Report, 2023.
+  date: '2023-06-02'
+  link: https://arxiv.org/abs/2305.17144
+  type: paper
+  image: images/2305.17144.png
+  buttons:
+  - type: paper
+    link: https://arxiv.org/abs/2305.17144
+  - type: code
+    link: https://github.com/OpenGVLab/GITM
   plugin: sources.py
   file: sources.yaml
