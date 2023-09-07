@@ -2,7 +2,7 @@
 title: Research
 nav:
   order: 1
-  tooltip: Published works
+  tooltip: Research interests
 ---
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
@@ -13,6 +13,8 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 {% include section.html %}
 
 ## Highlighted
+
+{% include citation.html lookup="R-FCN: Object Detection via Region-based Fully Convolutional Networks" style="rich" %}
 
 {% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
 
