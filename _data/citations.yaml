@@ -170,6 +170,7 @@
   - type: paper
     link: https://arxiv.org/abs/1605.06409
   - type: source
+    text: Code
     link: https://github.com/daijifeng001/R-FCN
   plugin: sources.py
   file: sources.yaml
@@ -193,6 +194,7 @@
   - type: paper
     link: https://arxiv.org/abs/2010.04159
   - type: source
+    text: Code
     link: https://github.com/fundamentalvision/Deformable-DETR
   plugin: sources.py
   file: sources.yaml
@@ -217,6 +219,7 @@
   - type: paper
     link: https://arxiv.org/abs/1703.06211
   - type: source
+    text: Code
     link: https://github.com/msracver/Deformable-ConvNets
   plugin: sources.py
   file: sources.yaml
@@ -284,6 +287,7 @@
   - type: paper
     link: https://arxiv.org/abs/1906.07155
   - type: source
+    text: Code
     link: https://github.com/open-mmlab/mmdetection
   plugin: sources.py
   file: sources.yaml
@@ -305,6 +309,7 @@
   - type: paper
     link: https://arxiv.org/abs/1512.04412
   - type: source
+    text: Code
     link: https://github.com/daijifeng001/MNC
   plugin: sources.py
   file: sources.yaml
@@ -324,6 +329,7 @@
   - type: paper
     link: https://arxiv.org/abs/1811.11168
   - type: source
+    text: Code
     link: https://github.com/msracver/Deformable-ConvNets
   plugin: sources.py
   file: sources.yaml
@@ -345,6 +351,7 @@
   - type: paper
     link: https://arxiv.org/abs/1711.11575
   - type: source
+    text: Code
     link: https://github.com/msracver/Relation-Networks-for-Object-Detection
   plugin: sources.py
   file: sources.yaml
@@ -366,6 +373,7 @@
   - type: paper
     link: https://arxiv.org/abs/1611.07709
   - type: source
+    text: Code
     link: https://github.com/msracver/FCIS
   plugin: sources.py
   file: sources.yaml
@@ -404,6 +412,7 @@
   - type: paper
     link: https://arxiv.org/abs/1604.05144
   - type: source
+    text: Code
     link: http://www.jifengdai.org/downloads/scribble_sup/
   plugin: sources.py
   file: sources.yaml
@@ -424,6 +433,7 @@
   - type: paper
     link: https://arxiv.org/abs/1611.07715
   - type: source
+    text: Code
     link: https://github.com/msracver/Deep-Feature-Flow
   plugin: sources.py
   file: sources.yaml
@@ -444,6 +454,7 @@
   - type: paper
     link: https://arxiv.org/abs/1703.10025
   - type: source
+    text: Code
     link: https://github.com/msracver/Flow-Guided-Feature-Aggregation
   plugin: sources.py
   file: sources.yaml
@@ -482,6 +493,7 @@
   - type: paper
     link: https://arxiv.org/abs/1908.08530
   - type: source
+    text: Code
     link: https://github.com/jackroos/VL-BERT
   plugin: sources.py
   file: sources.yaml
@@ -506,6 +518,7 @@
   - type: paper
     link: https://arxiv.org/abs/2112.01522
   - type: source
+    text: Code
     link: https://github.com/fundamentalvision/Uni-Perceiver
   plugin: sources.py
   file: sources.yaml
@@ -528,6 +541,7 @@
   - type: paper
     link: https://arxiv.org/abs/2206.04674
   - type: source
+    text: Code
     link: https://github.com/fundamentalvision/Uni-Perceiver
   plugin: sources.py
   file: sources.yaml
@@ -581,6 +595,7 @@
   - type: paper
     link: https://arxiv.org/abs/2305.11175
   - type: source
+    text: Code
     link: https://github.com/OpenGVLab/VisionLLM
   plugin: sources.py
   file: sources.yaml
@@ -608,6 +623,7 @@
   - type: paper
     link: https://arxiv.org/abs/2203.17270
   - type: source
+    text: Code
     link: https://github.com/zhiqi-li/BEVFormer
   plugin: sources.py
   file: sources.yaml
@@ -667,6 +683,7 @@
   - type: paper
     link: https://arxiv.org/abs/2212.10156
   - type: source
+    text: Code
     link: https://github.com/opendrivelab/uniad
   plugin: sources.py
   file: sources.yaml
@@ -696,6 +713,7 @@
   - type: paper
     link: https://arxiv.org/abs/2305.17144
   - type: source
+    text: Code
     link: https://github.com/OpenGVLab/GITM
   plugin: sources.py
   file: sources.yaml
