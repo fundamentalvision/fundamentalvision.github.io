@@ -25,7 +25,7 @@
 - id: arxiv:1605.06409
   type: paper
   publisher: Neural Information Processing Systems (NIPS), 2016.
-  image: images/R-FCN.png
+  image: images/1605.06409.png
   description: The 3-rd most influential paper in Neural Information Processing Systems (NIPS), 2016. Pytorch visual operator library.
   buttons:
     - type: paper

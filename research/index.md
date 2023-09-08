@@ -56,7 +56,7 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 {% include citation.html lookup="Planning-oriented Autonomous Driving" style="rich" %}
 
-{% include citation.html lookup="Ghost in the Minecraft: Generally Capable Agents for Open-World Enviroments via Large Language Models with Text-based Knowledge and Memory" style="rich" %}
+{% include citation.html lookup="Ghost in the Minecraft: Generally Capable Agents for Open-World Environments via Large Language Models with Text-based Knowledge and Memory" style="rich" %}
 
 {% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
 
