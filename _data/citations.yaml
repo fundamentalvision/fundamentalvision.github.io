@@ -163,7 +163,7 @@
   date: '2016-06-22'
   link: https://arxiv.org/abs/1605.06409
   type: paper
-  image: images/R-FCN.png
+  image: images/1605.06409.png
   description: The 3-rd most influential paper in Neural Information Processing Systems
     (NIPS), 2016. Pytorch visual operator library.
   buttons:
