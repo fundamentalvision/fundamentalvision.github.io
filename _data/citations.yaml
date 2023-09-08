@@ -717,3 +717,53 @@
     link: https://github.com/OpenGVLab/GITM
   plugin: sources.py
   file: sources.yaml
+- id: arxiv:2308.01907
+  title: 'The All-Seeing Project: Towards Panoptic Visual Recognition and Understanding
+    of the Open World'
+  authors:
+  - Weiyun Wang
+  - Min Shi
+  - Qingyun Li
+  - Wenhai Wang
+  - Zhenhang Huang
+  - Linjie Xing
+  - Zhe Chen
+  - Hao Li
+  - Xizhou Zhu
+  - Zhiguo Cao
+  - Yushi Chen
+  - Tong Lu
+  - Jifeng Dai
+  - Yu Qiao
+  publisher: Arxiv Tech Report, 2023.
+  date: '2023-08-04'
+  link: https://arxiv.org/abs/2308.01907
+  type: paper
+  buttons:
+  - type: paper
+    link: https://arxiv.org/abs/2308.01907
+  - type: source
+    text: Code
+    link: https://github.com/opengvlab/all-seeing
+  plugin: sources.py
+  file: sources.yaml
+- id: arxiv:2211.05781
+  title: Demystify Transformers & Convolutions in Modern Image Deep Networks
+  authors:
+  - Jifeng Dai
+  - Min Shi
+  - Weiyun Wang
+  - Sitong Wu
+  - Linjie Xing
+  - Wenhai Wang
+  - Xizhou Zhu
+  - Lewei Lu
+  - Jie Zhou
+  - Xiaogang Wang
+  - Yu Qiao
+  - Xiaowei Hu
+  publisher: arXiv
+  date: '2022-11-11'
+  link: https://arxiv.org/abs/2211.05781
+  plugin: sources.py
+  file: sources.yaml
