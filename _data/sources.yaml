@@ -24,7 +24,7 @@
 
 - id: arxiv:1605.06409
   type: paper
-  publisher: Neural Information Processing Systems (NIPS), 2016.
+  publisher: NeurIPS 2016
   image: images/1605.06409.png
   description: The 3-rd most influential paper in Neural Information Processing Systems (NIPS), 2016. Pytorch visual operator library.
   buttons:
@@ -36,7 +36,7 @@
 
 - id: arxiv:2010.04159
   type: paper
-  publisher: International Conference on Learning Representations (ICLR), 2021.(Oral)
+  publisher: ICLR 2021 (Oral)
   image: images/2010.04159.png
   description: The 2-nd most influential paper in International Conference on Learning Representations (ICLR), 2021.
   buttons:
@@ -48,7 +48,7 @@
 
 - id: arxiv:1703.06211
   type: paper
-  publisher: International Conference on Computer Vision (ICCV), 2017. (Oral)
+  publisher: ICCV 2017 (Oral)
   image: images/1703.06211.png
   description: The 6-th most influential paper in International Conference on Computer Vision (ICCV), 2017. Pytorch visual operator library.
   buttons:
@@ -60,7 +60,7 @@
 
 - id: arxiv:2211.05778
   type: paper
-  publisher: IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2023. (Highlight)
+  publisher: CVPR 2023 (Highlight)
   image: images/2211.05778.png
   buttons:
     - type: paper
@@ -68,7 +68,7 @@
 
 - id: arxiv:1906.07155
   type: paper
-  publisher: IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2019.
+  publisher: CVPR 2019
   image: images/1906.07155.png
   buttons:
     - type: paper
@@ -79,7 +79,7 @@
 
 - id: arxiv:1512.04412
   type: paper
-  publisher: IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2016. (Oral)
+  publisher: CVPR 2016 (Oral)
   image: images/1512.04412.png
   description: 1-st place winner of the COCO 2015 segmentation challenge. (0.36 sec/image test speed using VGG-16 net)
   buttons:
@@ -91,7 +91,7 @@
 
 - id: arxiv:1811.11168
   type: paper
-  publisher: IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2019.
+  publisher: CVPR 2019
   image: images/1811.11168.png
   buttons:
     - type: paper
@@ -102,7 +102,7 @@
 
 - id: arxiv:1711.11575
   type: paper
-  publisher: IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2018. (Oral)
+  publisher: CVPR 2018 (Oral)
   image: images/1711.11575.png
   buttons:
     - type: paper
@@ -113,7 +113,7 @@
 
 - id: arxiv:1611.07709
   type: paper
-  publisher: IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2017. (Spotlight)
+  publisher: CVPR 2017 (Spotlight)
   image: images/1611.07709.png
   buttons:
     - type: paper
@@ -124,7 +124,7 @@
 
 - id: arxiv:1503.01640
   type: paper
-  publisher: International Conference on Computer Vision (ICCV), 2015.
+  publisher: ICCV 2015
   image: images/1503.01640.png
   buttons:
     - type: paper
@@ -132,7 +132,7 @@
 
 - id: arxiv:1604.05144
   type: paper
-  publisher: IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2016. (Oral)
+  publisher: CVPR 2016 (Oral)
   image: images/1604.05144.png
   buttons:
     - type: paper
@@ -143,7 +143,7 @@
 
 - id: arxiv:1611.07715
   type: paper
-  publisher: IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2017.
+  publisher: CVPR 2017
   image: images/1611.07715.png
   buttons:
     - type: paper
@@ -154,7 +154,7 @@
 
 - id: arxiv:1703.10025
   type: paper
-  publisher: International Conference on Computer Vision (ICCV), 2017.
+  publisher: ICCV 2017
   image: images/1703.10025.png
   buttons:
     - type: paper
@@ -165,7 +165,7 @@
 
 - id: arxiv:1412.1283
   type: paper
-  publisher: IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2015.
+  publisher: CVPR 2015
   image: images/1412.1283.png
   buttons:
     - type: paper
@@ -173,7 +173,7 @@
 
 - id: arxiv:1908.08530
   type: paper
-  publisher: International Conference on Learning Representations (ICLR), 2020.
+  publisher: ICLR 2020
   image: images/1908.08530.png
   buttons:
     - type: paper
@@ -184,7 +184,7 @@
 
 - id: arxiv:2112.01522
   type: paper
-  publisher: IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2022.
+  publisher: CVPR 2022
   image: images/2112.01522.png
   buttons:
     - type: paper
@@ -195,7 +195,7 @@
 
 - id: arxiv:2206.04674
   type: paper
-  publisher: Neural Information Processing Systems (NIPS), 2022. (Spotlight)
+  publisher: NeurIPS 2022 (Spotlight)
   image: images/2206.04674.png
   buttons:
     - type: paper
@@ -206,7 +206,7 @@
 
 - id: arxiv:2211.09808
   type: paper
-  publisher: IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2023. (Highlight)
+  publisher: CVPR 2023 (Highlight)
   image: images/2211.09808.png
   buttons:
     - type: paper
@@ -214,7 +214,7 @@
 
 - id: arxiv:2305.11175
   type: paper
-  publisher: Arxiv Tech Report, 2023.
+  publisher: Arxiv Tech Report 2023
   image: images/2305.11175.png
   buttons:
     - type: paper
@@ -225,7 +225,7 @@
 
 - id: arxiv:2203.17270
   type: paper
-  publisher: European Conference on Computer Vision (ECCV), 2022.
+  publisher: ECCV 2022
   image: images/2203.17270.png
   description: The 6-th most influential paper in European Conference on Computer Vision (ECCV), 2022. The 100 most cited AI papers of 2022. Automatic-driving competition Waymo 2022 champion.
   buttons:
@@ -237,7 +237,7 @@
 
 - id: arxiv:2211.10439
   type: paper
-  publisher: IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2023. (Highlight)
+  publisher: CVPR 2023 (Highlight)
   image: images/2211.10439.png
   buttons:
     - type: paper
@@ -245,7 +245,7 @@
 
 - id: arxiv:2212.10156
   type: paper
-  publisher: IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2023. (Best Paper Award)
+  publisher: CVPR 2023 (Best Paper Award)
   image: images/2212.10156.png
   buttons:
     - type: paper
@@ -256,7 +256,7 @@
 
 - id: arxiv:2305.17144
   type: paper
-  publisher: Arxiv Tech Report, 2023.
+  publisher: Arxiv Tech Report 2023
   image: images/2305.17144.png
   buttons:
     - type: paper
@@ -267,7 +267,7 @@
 
 - id: arxiv:2308.01907
   type: paper
-  publisher: Arxiv Tech Report, 2023.
+  publisher: Arxiv Tech Report 2023
   buttons:
     - type: paper
       link: https://arxiv.org/abs/2308.01907
@@ -276,3 +276,226 @@
       link: https://github.com/opengvlab/all-seeing
 
 - id: arxiv:2211.05781
+  type: paper
+  publisher: Arxiv Tech Report 2022
+  buttons:
+    - type: paper
+      link: https://arxiv.org/abs/2211.05781
+    - type: source
+      text: Code
+      link: https://github.com/opengvlab/stm-evaluation
+
+- id: arxiv:2211.09807
+  type: paper
+  publisher: CVPR 2023 (Highlight)
+  buttons:
+    - type: paper
+      link: https://arxiv.org/abs/2211.09807
+    - type: source
+      text: Code
+      link: https://github.com/OpenGVLab/M3I-Pretraining
+
+- id: arxiv:2206.01204
+  type: paper
+  publisher: CVPR 2023 (Highlight)
+  buttons:
+    - type: paper
+      link: https://arxiv.org/abs/2206.01204
+    - type: source
+      text: Code
+      link: https://github.com/fundamentalvision/siamese-image-modeling
+
+- id: arxiv:2111.13579
+  type: paper
+  publisher: ECCV 2022
+  buttons:
+    - type: paper
+      link: https://arxiv.org/abs/2111.13579
+    - type: source
+      text: Code
+      link: https://github.com/ChangyaoTian/VL-LTR
+
+- id: arxiv:2112.05141
+  type: paper
+  publisher: CVPR 2022
+  buttons:
+    - type: paper
+      link: https://arxiv.org/abs/2112.05141
+    - type: source
+      text: Code
+      link: https://github.com/fundamentalvision/unigrad
+
+- id: arxiv:2103.14026
+  type: paper
+  publisher: CVPR 2022
+  buttons:
+    - type: paper
+      link: https://arxiv.org/abs/2103.14026
+
+- id: https://openreview.net/forum?id=hLTZCN7f3M-
+  type: paper
+  publisher: NeurIPS 2021
+  buttons:
+    - type: paper
+      link: https://openreview.net/forum?id=hLTZCN7f3M-
+    - type: source
+      text: Code
+      link: https://github.com/fundamentalvision/parameterized-ap-loss
+
+- id: arxiv:2011.12953
+  type: paper
+  publisher: CVPR 2021
+  buttons:
+    - type: paper
+      link: https://arxiv.org/abs/2011.12953
+
+- id: arxiv:2010.07930
+  type: paper
+  publisher: ICLR 2021
+  buttons:
+    - type: paper
+      link: https://arxiv.org/abs/2010.07930
+    - type: source
+      text: Code
+      link: https://github.com/fundamentalvision/Auto-Seg-Loss
+
+- id: arxiv:1910.02940
+  type: paper
+  publisher: ICLR 2020
+  buttons:
+    - type: paper
+      link: https://arxiv.org/abs/1910.02940
+    - type: source
+      text: Code
+      link: https://github.com/hangg7/deformable-kernels/
+
+- id: arxiv:1904.05873
+  type: paper
+  publisher: ICCV 2019
+  buttons:
+    - type: paper
+      link: https://arxiv.org/abs/1904.05873
+
+- id: arxiv:1811.11167
+  type: paper
+  publisher: Arxiv Tech Report 2018
+  buttons:
+    - type: paper
+      link: https://arxiv.org/abs/1811.11167
+
+- id: arxiv:1804.05830
+  type: paper
+  publisher: Arxiv Tech Report 2018
+  buttons:
+    - type: paper
+      link: https://arxiv.org/abs/1804.05830
+
+- id: arxiv:1803.07066
+  type: paper
+  publisher: ECCV 2018
+  buttons:
+    - type: paper
+      link: https://arxiv.org/abs/1803.07066
+
+- id: arxiv:1603.08678
+  type: paper
+  publisher: ECCV 2016
+  buttons:
+    - type: paper
+      link: https://arxiv.org/abs/1603.08678
+
+- id: arxiv:1412.6296
+  type: paper
+  publisher: ICLR 2015
+  buttons:
+    - type: paper
+      link: https://arxiv.org/abs/1412.6296
+    - type: source
+      text: Code
+      link: http://www.stat.ucla.edu/~yang.lu/Project/generativeCNN/main.html
+
+- title: Unsupervised Learning of Dictionaries of Hierarchical Compositional Models
+  authors:
+    - Jifeng Dai
+    - Yi Hong
+    - Wenze Hu
+    - Song-Chun Zhu
+    - Ying-Nian Wu
+  type: paper
+  publisher: CVPR 2014
+  date: '2014-06-28'
+  link: https://jifengdai.org/publications/CVPR_2014.pdf
+  buttons:
+    - type: paper
+      link: https://jifengdai.org/publications/CVPR_2014.pdf
+    - type: source
+      text: Code
+      link: http://www.stat.ucla.edu/~jifeng.dai/research/HCM.html
+
+- title: Cosegmentation and Cosketch by Unsupervised Learning
+  authors:
+    - Jifeng Dai
+    - Ying-Nian Wu
+    - Jie Zhou
+    - Song-Chun Zhu
+  type: paper
+  publisher: ICCV 2013
+  date: '2013-12-08'
+  link: https://jifengdai.org/publications/ICCV_Cosegmentation_2013.pdf
+  buttons:
+    - type: paper
+      link: https://jifengdai.org/publications/ICCV_Cosegmentation_2013.pdf
+    - type: source
+      text: Code
+      link: http://www.stat.ucla.edu/~jifeng.dai/research/CosegmentationCosketch.html
+
+- title: Mining Sub-categories For Object Detection
+  authors:
+    - Jifeng Dai
+    - Jianjiang Feng
+    - Jie Zhou
+  type: paper
+  publisher: ICPR 2012 (Oral)
+  date: '2012-11-15'
+  link: https://jifengdai.org/publications/ICPR_Mining_2012.pdf
+  buttons:
+    - type: paper
+      link: https://jifengdai.org/publications/ICPR_Mining_2012.pdf
+
+- title: Ridge Based Palmprint Matching
+  authors:
+    - Jifeng Dai
+    - Jianjiang Feng
+    - Jie Zhou
+  type: paper
+  publisher: IEEE Biometrics Council Newsletter, 7:4-5, 2013 (Invited paper)
+  date: '2011-12-27'
+  link: https://jifengdai.org/publications/Newsletter_Ridge_2013.pdf
+  buttons:
+    - type: paper
+      link: https://jifengdai.org/publications/Newsletter_Ridge_2013.pdf
+
+- title: Robust and Efficient Ridge-Based Palmprint Matching
+  authors:
+    - Jifeng Dai
+    - Jianjiang Feng
+    - Jie Zhou
+  type: paper
+  publisher: IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 34(8):1618-1632, 2012.
+  date: '2011-12-27'
+  link: https://jifengdai.org/publications/Newsletter_Ridge_2013.pdf
+  buttons:
+    - type: paper
+      link: https://jifengdai.org/publications/Newsletter_Ridge_2013.pdf
+
+- title: Multi-feature Based High-resolution Palmprint Recognition
+  authors:
+    - Jifeng Dai
+    - Jie Zhou
+  type: paper
+  publisher: IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 33(5):945-957, 2011.
+  date: '2011-12-27'
+  link: https://jifengdai.org/publications/PAMI_MultiFeature_2011.pdf
+  buttons:
+    - type: paper
+      link: https://jifengdai.org/publications/PAMI_MultiFeature_2011.pdf
