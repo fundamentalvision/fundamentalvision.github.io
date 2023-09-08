@@ -26,6 +26,38 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 {% include citation.html lookup="Deformable ConvNets v2: More Deformable, Better Results" style="rich" %}
 
+{% include citation.html lookup="Relation Networks for Object Detection" style="rich" %}
+
+{% include citation.html lookup="Fully Convolutional Instance-aware Semantic Segmentation" style="rich" %}
+
+{% include citation.html lookup="BoxSup: Exploiting Bounding Boxes to Supervise Convolutional Networks for Semantic Segmentation" style="rich" %}
+
+{% include citation.html lookup="ScribbleSup: Scribble-Supervised Convolutional Networks for Semantic Segmentation" style="rich" %}
+
+{% include citation.html lookup="Deep Feature Flow for Video Recognition" style="rich" %}
+
+{% include citation.html lookup="Flow-Guided Feature Aggregation for Video Object Detection" style="rich" %}
+
+{% include citation.html lookup="Convolutional Feature Masking for Joint Object and Stuff Segmentation" style="rich" %}
+
+{% include citation.html lookup="VL-BERT: Pre-training of Generic Visual-Linguistic Representations" style="rich" %}
+
+{% include citation.html lookup="Uni-Perceiver: Pre-training Unified Architecture for Generic Perception for Zero-shot and Few-shot Tasks" style="rich" %}
+
+{% include citation.html lookup="Uni-Perceiver-MoE: Learning Sparse Generalist Models with Conditional MoEs" style="rich" %}
+
+{% include citation.html lookup="Uni-Perceiver v2: A Generalist Model for Large-Scale Vision and Vision-Language Tasks" style="rich" %}
+
+{% include citation.html lookup="VisionLLM: Large Language Model is also an Open-Ended Decoder for Vision-Centric Tasks" style="rich" %}
+
+{% include citation.html lookup="BEVFormer: Learning Bird's-Eye-View Representation from Multi-Camera Images via Spatiotemporal Transformers" style="rich" %}
+
+{% include citation.html lookup="BEVFormer v2: Adapting Modern Image Backbones to Bird's-Eye-View Recognition via Perspective Supervision" style="rich" %}
+
+{% include citation.html lookup="Planning-oriented Autonomous Driving" style="rich" %}
+
+{% include citation.html lookup="Ghost in the Minecraft: Generally Capable Agents for Open-World Enviroments via Large Language Models with Text-based Knowledge and Memory" style="rich" %}
+
 {% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
 
 {% include section.html %}
