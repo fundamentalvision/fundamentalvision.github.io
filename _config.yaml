@@ -7,12 +7,12 @@ footer: images/background.jpg
 
 # site social media and other links
 links:
-  email: contact@fundamentalvision.com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
+  email: daijifeng@tsinghua.edu.cn
+  # orcid: 0000-0001-8713-9213
+  google-scholar: SH_-B_AAAAAJ
   github: fundamentalvision
-  twitter: fundamentalvision
-  youtube: fundamentalvision
+  # twitter: fundamentalvision
+  # youtube: fundamentalvision
 
 ### jekyll settings
 
