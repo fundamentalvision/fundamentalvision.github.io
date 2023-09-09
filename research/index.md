@@ -16,20 +16,12 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 {% include section.html %}
 
-## Featured
+## Main Research Topics
 
 {% include list.html component="card" data="projects" filters="group: featured" %}
 
 {% include section.html %}
 
-## Videos
-
-Below shows a test YouTube video.
-
-![](https://www.youtube.com/watch?v=r0NRjLsOXvw)
-
-{% include section.html %}
-
 ## More
 
-{% include list.html component="card" data="projects" filters="group: " style="small" %}
+<!--{% include list.html component="card" data="projects" filters="group: " style="small" %}-->
