@@ -1,3 +1,9 @@
+- title: Ghost in the Minecraft
+  subtitle: GITM
+  group: featured
+  image: images/different_items.gif
+  link: "research/gitm"
+
 - title: Cool Dataset
   subtitle: a subtitle
   group: featured
