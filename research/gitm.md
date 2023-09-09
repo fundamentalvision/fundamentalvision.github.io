@@ -1,8 +1,19 @@
 ---
-title: Research
+title: Foundation Model for General Intelligent Agent
 ---
 
-# {% include icon.html icon="fa-solid fa-wrench" %}GITM
+# {% include icon.html icon="fa-solid fa-wrench" %}Foundation Model for General Intelligent Agent
+
+Construct generally capable agents in open-world environments. Design agent frameworks integrating perception, planning, learning and control based on a large model. Aim to realize embodied intelligence interacting with the real world. Explore foundation models for general Artificial intelligence (AGI).
+
+## Representative work:
+
+### General agents in the open world of Minecraft
+
+   - [Ghost in the Minecraft: Generally Capable Agents for Open-World Environments via Large Language Models with Text-based Knowledge and Memory](https://arxiv.org/abs/2305.17144)
+
+     [[Project](https://github.com/OpenGVLab/GITM)]
+
 
 Below shows a test YouTube video.
 
