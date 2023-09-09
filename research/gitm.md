@@ -12,10 +12,8 @@ Construct generally capable agents in open-world environments. Design agent fram
 
    - Ghost in the Minecraft: Generally Capable Agents for Open-World Environments via Large Language Models with Text-based Knowledge and Memory
 
-     [[Paper](https://arxiv.org/abs/2305.17144)][[Project](https://github.com/OpenGVLab/GITM)]
-
-    ![GITM-1](images/gitm.png)
-    ![GITM-2](images/different_items.gif)
+     [[Paper](https://arxiv.org/abs/2305.17144)]
+     [[Project](https://github.com/OpenGVLab/GITM)]
 
 
 Below shows a test YouTube video.
