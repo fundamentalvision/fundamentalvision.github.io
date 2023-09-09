@@ -15,8 +15,10 @@ Construct generally capable agents in open-world environments. Design agent fram
      [[Paper](https://arxiv.org/abs/2305.17144)]
      [[Project](https://github.com/OpenGVLab/GITM)]
 
+![GITM-1](/images/gitm.png)
+![GITM-2](/images/different_items.gif)
 
-Below shows a test YouTube video.
+Demo video:
 
 ![](https://www.youtube.com/watch?v=r0NRjLsOXvw)
 
