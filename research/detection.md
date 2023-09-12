@@ -12,7 +12,7 @@ Object detection and recognition are the basic problems of visual perception. We
 
 - [**R-FCN: Object Detection via Region-based Fully Convolutional Networks**](https://arxiv.org/abs/1605.06409)
 
-    <font color="660000"> [NIPS 2016 3rd most influential paper]  [Pytorch standard operator] </font>
+    <font color="aa0000"> [NIPS 2016 3rd most influential paper]  [Pytorch standard operator] </font>
 
 <div align="center">
   <img width="45%" src="../images/r-fcn.png"/>
@@ -20,7 +20,7 @@ Object detection and recognition are the basic problems of visual perception. We
 
 - [**Deformable DETR: Deformable Transformers for End-to-End Object Detection**](https://arxiv.org/abs/2010.04159)
 
-    <font color="660000"> [ICLR 2021 2nd most influential paper] </font>
+    <font color="aa0000"> [ICLR 2021 2nd most influential paper] </font>
 
 <div align="center">
   <img width="45%" src="../images/deformable_detr.png"/>
@@ -30,7 +30,7 @@ Object detection and recognition are the basic problems of visual perception. We
 
 - **Deformable Convolutional Networks** [**v1**](https://arxiv.org/abs/1703.06211)/[**v2**](https://arxiv.org/abs/1811.11168)
 
-    <font color="660000"> [ICCV 2017 6th most influential paper]  [Pytorch standard operator] </font>
+    <font color="aa0000"> [ICCV 2017 6th most influential paper]  [Pytorch standard operator] </font>
 
 <div align="center">
   <img width="45%" src="../images/dcn.png"/>
@@ -38,7 +38,7 @@ Object detection and recognition are the basic problems of visual perception. We
 
 - [**InternImage: Exploring Large-Scale Vision Foundation Models with Deformable Convolutions**](https://arxiv.org/abs/2211.05778) 
 
-    <font color="660000"> [CVPR 2023 highlight paper] </font>
+    <font color="aa0000"> [CVPR 2023 highlight paper] </font>
 
 <div align="center">
   <img width="30%" src="../images/dcn-v3.png"/>

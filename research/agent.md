@@ -13,14 +13,12 @@ Towards the ultimate goal "General Artificial Intelligence (AGI)", we explore fo
 - [**Ghost in the Minecraft: Generally Capable Agents for Open-World Environments via Large Language Models with Text-based Knowledge and Memory**](https://github.com/OpenGVLab/GITM)
 
 <div align="center">
-  <img width="60%" src="../images/gitm.png"/>
+  <img width="50%" src="../images/gitm.png"/>
 </div>
-<br>
 
 <div align="center">
-  <img width="70%" src="../images/different_items.gif"/>
+  <img width="60%" src="../images/different_items.gif"/>
 </div>
-<br>
 
 <!-- ![](https://www.youtube.com/watch?v=r0NRjLsOXvw) -->
 
