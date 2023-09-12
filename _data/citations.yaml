@@ -96,7 +96,8 @@
   plugin: sources.py
   file: sources.yaml
   type: paper
-  description: test description.
+  description: test description. ![GitHub Repo stars](https://img.shields.io/github/stars/daijifeng001/R-FCN)
+    test stars.
   image: images/different_items.gif
   buttons:
   - type: manubot
