@@ -10,22 +10,23 @@ We are dedicated to advancing the field of Multi-modal Generalist Model through 
 
 ## Representative work:
 
-### Unified Pre-training Algorithm for Large-scale Vision-Language Models
+### Unified Pre-training Algorithm for Multi-modal Large-scale Vision-Language Models
 
 - [**VL-BERT: Pre-training of Generic Visual-Linguistic Representations**](https://arxiv.org/abs/1908.08530)
 
   <font color="aa0000"> [ICLR 2021 7th most influential paper]</font>
 
 <div align="center">
-  <img width="50%" src="../images/vl-bert.png"/>
+  <img width="80%" src="../images/vl-bert.png"/>
 </div>
 
-### Unified Modeling and Architecture for General Multi-modal Perception Tasks 
+
+### Unified Architecture and Parameter for Generic Perception and Solving Multi-modal Tasks 
 
 - [**Uni-Perceiver: Pre-training Unified Architecture for Generic Perception for Zero-shot and Few-shot Tasks**](https://arxiv.org/abs/2112.01522)
 
 <div align="center">
-  <img width="50%" src="../images/uni-perceiver.png"/>
+  <img width="70%" src="../images/uni-perceiver.png"/>
 </div>
 
 - [**Uni-Perceiver-MoE: Learning Sparse Generalist Models with Conditional MoEs**](https://arxiv.org/abs/2206.04674)
@@ -33,7 +34,7 @@ We are dedicated to advancing the field of Multi-modal Generalist Model through 
   <font color="aa0000"> [NeurIPS 2022 Spotlight paper] </font>
 
 <div align="center">
-  <img width="30%" src="../images/uni-perciever-moe.png"/>
+  <img width="50%" src="../images/uni-perciever-moe.png"/>
 </div>
 
 - [**Uni-Perceiver v2: A Generalist Model for Large-Scale Vision and Vision-Language Tasks**](https://arxiv.org/abs/2211.09808)
@@ -41,17 +42,21 @@ We are dedicated to advancing the field of Multi-modal Generalist Model through 
   <font color="aa0000"> [CVPR 2023 Highlight paper] </font>
 
 <div align="center">
-  <img width="60%" src="../images/uni-perceiver-v2.png"/>
+  <img width="90%" src="../images/uni-perceiver-v2.png"/>
 </div>
 
-### Large Vision-Language Model for Open-Ended Vision-Centric Tasks
+### Large Language Model for Open-ended Vision-Centric Tasks
 
 - [**VisionLLM: Large Language Model is also an Open-Ended Decoder for Vision-Centric Tasks**](https://arxiv.org/pdf/2305.11175.pdf)
 
 <div align="center">
-  <img width="20%" src="../images/visionllm.png"/>
+  <img width="30%" src="../images/visionllm.png"/>
 </div>
-<br>
+
 <div align="center">
-  <img width="60%" src="../images/visionllm1.png"/>
+  <img width="80%" src="../images/visionllm2.png"/>
+</div>
+
+<div align="center">
+  <img width="80%" src="../images/visionllm3.png"/>
 </div>
