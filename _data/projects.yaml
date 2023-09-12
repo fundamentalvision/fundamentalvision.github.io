@@ -1,6 +1,6 @@
 - title: Foundation Model for Visual Perception
   group: featured
-  image: images/dcn.png
+  image: images/perception.png
   link: "research/basic_perception"
 
 - title: Generic Model for Multi-modal Perception
@@ -10,7 +10,7 @@
 
 - title: Perception and Decision Making Intergration for Autonomous Driving
   group: featured
-  image: images/minecraft.png
+  image: images/autonomous_driving.png
   link: "research/autonomous_driving"
 
 - title: Foundation Model for General Intelligent Agents
