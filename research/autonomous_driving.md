@@ -8,13 +8,13 @@ Our main focus is on researching 2D image perception and multi-sensor 3D surroun
 
 {% include section.html %}
 
-## Representative work:
+## Representative Work:
 
-### Universal framwork for Bird's-Eye-View (BEV) recognition, BEV feature construction and model optimization
+### Generic Framwork for Bird's-Eye-View (BEV) Recognition, Unified BEV Feature and Model Optimization
 
 - [**BEVFormer: Learning Bird's-Eye-View Representation from Multi-Camera Images via Spatiotemporal Transformers**](https://arxiv.org/abs/2203.17270)
 
-    <font color="aa0000"> [ECCV 2022 6th most influential paper]  [The 100 most cited AI papers of 2022]  [Ranking 1st on Waymo 2022] </font>
+    <font color="aa0000"> [ECCV 2022 6th most influential paper]&emsp;[The 100 most cited AI papers of 2022]&emsp;[Ranking 1st on Waymo 2022] </font>
 
 <div align="center">
   <img width="60%" src="../images/2203.17270.png"/>
@@ -32,7 +32,7 @@ Our main focus is on researching 2D image perception and multi-sensor 3D surroun
   <img width="60%" src="../images/2211.10439.png"/>
 </div>
 
-### End-to-end autonomous driving framework with perception and decision making integration
+### End-to-end Autonomous Driving Framework with Perception and Decision-making Integration
 
 - [**Planning-oriented Autonomous Driving**](https://arxiv.org/abs/2212.10156)
 

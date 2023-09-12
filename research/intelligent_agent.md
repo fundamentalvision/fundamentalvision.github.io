@@ -9,7 +9,7 @@ Towards the ultimate goal "General Artificial Intelligence (AGI)", we explore fo
 {% include section.html %}
 ## Representative Work:
 
-### Generally capable agents in the open-world Minecraft game
+### Generally Capable Agents in the Open-World Minecraft Game
 
 - [**Ghost in the Minecraft: Generally Capable Agents for Open-World Environments via Large Language Models with Text-based Knowledge and Memory**](https://github.com/OpenGVLab/GITM)
 
@@ -21,10 +21,7 @@ Towards the ultimate goal "General Artificial Intelligence (AGI)", we explore fo
   <img width="60%" src="../images/different_items.gif"/>
 </div>
 
-<!-- ![](https://www.youtube.com/watch?v=r0NRjLsOXvw) -->
-
-{% include section.html %}
-## Demo Videos:
+&emsp;&emsp;**Demo Videos:**
 
 {%
   include button.html
@@ -34,7 +31,7 @@ Towards the ultimate goal "General Artificial Intelligence (AGI)", we explore fo
   text="GITM obtains diamond"
   tooltip="GITM obtains diamond"
   flip=false
-  style="bare"
+  style="rich"
 %}
 
 {%
