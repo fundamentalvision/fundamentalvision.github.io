@@ -97,7 +97,8 @@
   file: sources.yaml
   type: paper
   description: test description. ![GitHub Repo stars](https://img.shields.io/github/stars/daijifeng001/R-FCN)
-    test stars.
+    test stars. <div class="rounded-rectangle">This is a rounded rectangle with some
+    text inside.</div> test rounded rectangle.
   image: images/different_items.gif
   buttons:
   - type: manubot
