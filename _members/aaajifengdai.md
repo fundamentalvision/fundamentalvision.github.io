@@ -1,7 +1,7 @@
 ---
 name: Jifeng Dai
 image: images/jifengdai.jpeg
-role: A/Prof
+role: teacher
 description: Laboratory leader
 aliases:
   - Jifeng Dai

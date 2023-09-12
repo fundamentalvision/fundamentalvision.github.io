@@ -12,9 +12,12 @@ incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
 nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {% include section.html %}
-
-{% include list.html data="members" component="portrait" filters="role: pi" %}
-{% include list.html data="members" component="portrait" filters="role: ^(?!pi$)" %}
+## Faculties
+{% include list.html data="members" component="portrait" filters="role: teacher" %}
+## Ph.D Students
+{% include list.html data="members" component="portrait" filters="role: phd" %}
+## Master Students
+{% include list.html data="members" component="portrait" filters="role: master" %}
 
 {% include section.html background="images/background.jpg" dark=true %}
 
