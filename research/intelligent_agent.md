@@ -7,8 +7,7 @@ title: Foundation Model for General Intelligent Agent
 Towards the ultimate goal "General Artificial Intelligence (AGI)", we explore foundation models for general intelligent agents. We have designed agent framework integrating perception, planning, learning, and control based on large models, with which we constructed generally capable agents in open-world environments. We aim to realize embodied intelligence interacting with the real world.
 
 {% include section.html %}
-
-## Representative work:
+## Representative Work:
 
 ### Generally capable agents in the open-world Minecraft game
 
@@ -25,13 +24,14 @@ Towards the ultimate goal "General Artificial Intelligence (AGI)", we explore fo
 <!-- ![](https://www.youtube.com/watch?v=r0NRjLsOXvw) -->
 
 {% include section.html %}
+## Demo Videos:
 
 {%
   include button.html
   type="youtube"
   link="watch?v=r0NRjLsOXvw"
   icon="fa-brands fa-youtube"
-  text="Demo Video 1"
+  text="GITM obtains diamond"
   tooltip="GITM obtains diamond"
   flip=false
   style="bare"
@@ -42,7 +42,7 @@ Towards the ultimate goal "General Artificial Intelligence (AGI)", we explore fo
   type="youtube"
   link="watch?v=qDdd3qp41zo"
   icon="fa-brands fa-youtube"
-  text="Demo Video 2"
+  text="GITM creates enchanted table"
   tooltip="GITM creates enchanted table"
   flip=false
   style="rich"
