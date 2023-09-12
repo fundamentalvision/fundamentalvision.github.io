@@ -14,7 +14,7 @@ Our main focus is on researching 2D image perception and multi-sensor 3D surroun
 
 - [**BEVFormer: Learning Bird's-Eye-View Representation from Multi-Camera Images via Spatiotemporal Transformers**](https://arxiv.org/abs/2203.17270)
 
-    <font color="aa0000"> [Ranking 6th of the most influential papers in ECCV 2022]  [The first 100 most cited AI papers of 2022]  [Champion of Self-driving competition Waymo 2022] </font>
+    <font color="aa0000"> [ECCV 2022 6th most influential paper]  [The 100 most cited AI papers of 2022]  [Ranking 1st on Waymo 2022] </font>
 
 <div align="center">
   <img width="60%" src="../images/2203.17270.png"/>
@@ -40,4 +40,8 @@ Our main focus is on researching 2D image perception and multi-sensor 3D surroun
 
 <div align="center">
   <img width="70%" src="../images/2212.10156.png"/>
+</div>
+<br>
+<div align="center">
+  <img width="65%" src="../images/uniad.gif"/>
 </div>
