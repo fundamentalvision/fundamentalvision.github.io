@@ -15,7 +15,7 @@ Towards the ultimate goal "General Artificial Intelligence (AGI)", we explore fo
 <div align="center">
   <img width="50%" src="../images/gitm.png"/>
 </div>
-
+<br>
 <div align="center">
   <img width="60%" src="../images/different_items.gif"/>
 </div>
