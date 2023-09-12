@@ -1,7 +1,12 @@
+- title: Foundation Model for Visual Perception
+  group: featured
+  image: images/dcn.png
+  link: "research/detection"
+
 - title: Foundation Model for General Intelligent Agents
   group: featured
-  image: images/different_items.gif
-  link: "research/gitm"
+  image: images/minecraft.png
+  link: "research/agent"
 
 - title: Cool Tutorial
   subtitle: a subtitle
