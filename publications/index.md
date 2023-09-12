@@ -5,17 +5,6 @@ nav:
   tooltip: Published works
 ---
 
-<style>
-    /* Style for the rounded rectangle */
-    .rounded-rectangle {
-        display: inline-block;
-        padding: 10px;
-        border-radius: 10px; /* Adjust the border-radius to control the roundness */
-        background-color: #4CAF50; /* Background color of the rectangle */
-        text-align: center; /* Center the text inside the rectangle */
-    }
-</style>
-
 # {% include icon.html icon="fa-solid fa-microscope" %}Publications
 
 The laboratory has published more than 60 academic papers, and many papers represented by deformable convolution have had great influence in the field.
