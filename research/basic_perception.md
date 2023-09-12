@@ -8,13 +8,13 @@ Object detection and recognition are the basic problems of visual perception. We
 
 {% include section.html %}
 
-## Representative work:
+## Representative Work:
 
-### Object detection models with high precision and efficiency
+### Object Detection Models with High Precision and Efficiency
 
 - [**R-FCN: Object Detection via Region-based Fully Convolutional Networks**](https://arxiv.org/abs/1605.06409)
 
-    <font color="aa0000"> [NIPS 2016 3rd most influential paper]  [Pytorch standard operator] </font>
+    <font color="aa0000"> [NIPS 2016 3rd most influential paper]&emsp;[Pytorch standard operator] </font>
 
 <div align="center">
   <img width="45%" src="../images/r-fcn.png"/>
@@ -28,11 +28,11 @@ Object detection and recognition are the basic problems of visual perception. We
   <img width="45%" src="../images/deformable_detr.png"/>
 </div>
 
-### Vision backbones with deformable convolutions & large-scale vision backbones
+### Vision Backbones with Deformable Convolutions & Large-scale Vision Backbones
 
 - **Deformable Convolutional Networks** [**v1**](https://arxiv.org/abs/1703.06211)/[**v2**](https://arxiv.org/abs/1811.11168)
 
-    <font color="aa0000"> [ICCV 2017 6th most influential paper]  [Pytorch standard operator] </font>
+    <font color="aa0000"> [ICCV 2017 6th most influential paper]&emsp;[Pytorch standard operator] </font>
 
 <div align="center">
   <img width="45%" src="../images/dcn.png"/>
