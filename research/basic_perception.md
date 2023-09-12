@@ -6,6 +6,8 @@ title: Foundation Model for Visual Perception
 
 Object detection and recognition are the basic problems of visual perception. We focus on designing vision backbones and object detection models to solve these problems and extending them to generic and large-scale foundation models for general perception tasks.
 
+{% include section.html %}
+
 ## Representative work:
 
 ### Object detection models with high precision and efficiency
