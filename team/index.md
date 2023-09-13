@@ -7,18 +7,13 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Our team is led by Associate Professor Jifeng Dai and currently has dozens of students and interns. Our laboratory is now hiring, welcome to join.
 
 {% include section.html %}
 ## Faculties
 {% include list.html data="members" component="portrait" filters="role: teacher" %}
 ## Students and Interns
-{% include list.html data="members" component="portrait" filters="role: phd" style="small" %}
-{% include list.html data="members" component="portrait" filters="role: master" style="small" %}
-{% include list.html data="members" component="portrait" filters="role: interns" style="small" %}
-{% include portrait.html name="test" image="images/senxing.jpg" style="small" %}
+{% include list.html data="members" component="portrait" filters="role: stuint" style="small" %}
 
 ## Former
 {% include portrait.html name="Yi Li" style="small" %}

@@ -11,7 +11,7 @@ The Fundamental Vision Laboratory is leaded by Associate Professor Jifeng Dai, i
 
 {% capture text %}
 
-We are interested in developing foundational algorithms, models, and tools for visual perception as well as exploring unified approaches for general vision-centric multi-modal tasks and open-world scenarios. Here is the introduction to our research projects.
+We are interested in developing foundational algorithms, models, and tools for visual perception as well as exploring unified approaches for general vision-centric multi-modal tasks and open-world scenarios.
 
 {%
   include button.html
@@ -53,7 +53,6 @@ List of our publications.
   link="publications"
   title="Our Publications"
   flip=true
-  style="rich"
   text=text
 %}
 
@@ -67,7 +66,7 @@ Our team members.
   text="Meet Our Team"
   icon="fa-solid fa-arrow-right"
   flip=true
-  style="bare"
+  style="rich"
 %}
 
 {% endcapture %}

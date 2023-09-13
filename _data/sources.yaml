@@ -251,7 +251,7 @@
       link: https://arxiv.org/abs/2203.17270
     - type: source
       text: Code
-      link: https://github.com/zhiqi-li/BEVFormer
+      link: https://github.com/fundamentalvision/BEVFormer
 
 - id: arxiv:2211.10439
   type: paper
@@ -265,7 +265,7 @@
   type: paper
   publisher: CVPR 2023 (Best Paper Award)
   image: images/2212.10156.png
-  description: "![GitHub Repo stars](https://img.shields.io/github/stars/opendrivelab/uniad)<br><a href=\"https://cvpr2023.thecvf.com/Conferences/2023/Awards\"><button style=\"padding: 10px; display: inline-flex; font-family: var(--heading); font-weight: var(--semi-bold); background-color: #0ea5e9; color: white; border: none; border-radius: 10px; margin: 5px; gap: 10px; max-width: calc(100% - 5px - 5px); cursor: pointer;\">BEST PAPER</button></a>"
+  description: "![GitHub Repo stars](https://img.shields.io/github/stars/opendrivelab/uniad)<a href=\"https://cvpr2023.thecvf.com/Conferences/2023/Awards\"><button style=\"padding: 10px; display: inline-flex; font-family: var(--heading); font-weight: var(--semi-bold); background-color: #0ea5e9; color: white; border: none; border-radius: 10px; margin: 5px; gap: 10px; max-width: calc(100% - 5px - 5px); vertical-align: middle; cursor: pointer;\">BEST PAPER</button></a>"
   buttons:
     - type: paper
       link: https://arxiv.org/abs/2212.10156
