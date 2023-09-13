@@ -18,14 +18,8 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 {% include list.html data="members" component="portrait" filters="role: phd" style="small" %}
 {% include list.html data="members" component="portrait" filters="role: master" style="small" %}
 {% include list.html data="members" component="portrait" filters="role: master" style="small" %}
-{% include portrait.html name="Weijie Su" style="small" %}
-{% include portrait.html name="Chenxin Tao" style="small" %}
-{% include portrait.html name="Hao Li" style="small" %}
-{% include portrait.html name="Jinguo Zhu" style="small" %}
-{% include portrait.html name="Changyao Tian" style="small" %}
-{% include portrait.html name="Zhaokai Wang" style="small" %}
-{% include portrait.html name="Zhangwei Gao" style="small" %}
-{% include portrait.html name="Yuchen Duan" style="small" %}
+{% include list.html data="members" component="portrait" filters="role: interns" style="small" %}
+{% include portrait.html name="test" image="images/senxing.jpg" style="small" %}
 
 ## Former
 {% include portrait.html name="Yi Li" style="small" %}
