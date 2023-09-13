@@ -28,8 +28,8 @@ Towards the ultimate goal "General Artificial Intelligence (AGI)", we explore fo
   type="youtube"
   link="watch?v=r0NRjLsOXvw"
   icon="fa-brands fa-youtube"
-  text="GITM obtains diamond"
-  tooltip="GITM obtains diamond"
+  text="GITM Obtains Diamond"
+  tooltip="Watch video on Youtube"
   flip=false
   style="rich"
 %}
@@ -39,8 +39,8 @@ Towards the ultimate goal "General Artificial Intelligence (AGI)", we explore fo
   type="youtube"
   link="watch?v=qDdd3qp41zo"
   icon="fa-brands fa-youtube"
-  text="GITM creates enchanted table"
-  tooltip="GITM creates enchanted table"
+  text="GITM Creates Enchanted Table"
+  tooltip="Watch video on Youtube"
   flip=false
   style="rich"
 %}
