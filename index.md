@@ -3,7 +3,7 @@
 
 # fundamentalvision's Website
 
-The Fundamental Vision Laboratory is leaded by Associate Professor Jifeng Dai, in Electronic Engineering Department, Tsinghua University The laboratory is mainly engaged in research in the fields of computer vision and deep learning. There are four main research directions: foundation model for visual perception, universal model for multi-modal perception, perception and decision-making integration for autonomous driving, foundation model for general intelligent agents. The laboratory has published more than 60 academic papers, and many of the papers proposed, represented by deformable convolution, have become benchmark results in the field and have been selected as standard operators of the deep learning framework PyTorch.
+The Fundamental Vision Laboratory is leaded by Associate Professor Jifeng Dai, in Electronic Engineering Department, Tsinghua University. The laboratory is mainly engaged in the fields of computer vision and deep learning. Currently, there are four main research topics: foundation model for visual perception, generic model for multi-modal perception, perception and decision-making integration for autonomous driving, and foundation model for general intelligent agents. The laboratory has published more than 60 academic papers, and many of the papers, represented by deformable convolution, have become benchmark results in the field and have been selected as standard operators of the deep learning framework PyTorch.
 
 {% include section.html %}
 
@@ -26,7 +26,7 @@ Introduction to our research topics.
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/research.png"
   link="research"
   title="Our Research"
   text=text
