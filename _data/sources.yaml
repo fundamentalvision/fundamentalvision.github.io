@@ -1,9 +1,9 @@
 - id: doi:10.1371/journal.pcbi.1007128
   type: paper
   description: "test description. ![GitHub Repo stars](https://img.shields.io/github/stars/daijifeng001/R-FCN)\
-    \ test stars. <a href=\"https://www.baidu.com\"><button style=\"padding: 10px\
-    \ ; background-color: #4CAF50; color: white; border: none; border-radius:\
-    \ 10px; cursor: pointer;\">Click Me</button></a>"
+    \ test stars. <a href=\"https://www.baidu.com\"><button style=\"padding: 10px; display: inline-flex; font-family: var(--heading); font-weight: var(--semi-bold);\
+    \ background-color: #0ea5e9; color: white; border: none; border-radius: 10px; margin: 5px; gap: 10px; max-width: calc(100% - 5px - 5px);\
+    \ cursor: pointer;\">Click Me</button></a>"
   date: 2020-12-4
   # image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
   image: images/different_items.gif
@@ -26,9 +26,9 @@
   type: paper
   publisher: NeurIPS 2016
   image: images/1605.06409.png
-  description: "![GitHub Repo stars](https://img.shields.io/github/stars/daijifeng001/R-FCN)|
-    \ The 3-rd most influential paper in Neural Information Processing Systems (NIPS), 2016|
-    \ Pytorch visual operator library "
+  description: "![GitHub Repo stars](https://img.shields.io/github/stars/daijifeng001/R-FCN)-
+    \ The 3rd most influential paper in NeurIPS 2016-
+    \ Pytorch visual operator library"
   buttons:
     - type: paper
       link: https://arxiv.org/abs/1605.06409
@@ -40,8 +40,8 @@
   type: paper
   publisher: ICLR 2021 (Oral)
   image: images/2010.04159.png
-  description: "![GitHub Repo stars](https://img.shields.io/github/stars/fundamentalvision/Deformable-DETR)|
-    \ The 2-nd most influential paper in International Conference on Learning Representations (ICLR), 2021"
+  description: "![GitHub Repo stars](https://img.shields.io/github/stars/fundamentalvision/Deformable-DETR)-
+    \ The 2nd most influential paper in ICLR 2021"
   buttons:
     - type: paper
       link: https://arxiv.org/abs/2010.04159
@@ -53,8 +53,8 @@
   type: paper
   publisher: ICCV 2017 (Oral)
   image: images/1703.06211.png
-  description: "![GitHub Repo stars](https://img.shields.io/github/stars/msracver/Deformable-ConvNets)|
-    \ The 6-th most influential paper in International Conference on Computer Vision (ICCV), 2017|
+  description: "![GitHub Repo stars](https://img.shields.io/github/stars/msracver/Deformable-ConvNets)-
+    \ The 6th most influential paper in ICCV 2017-
     \ Pytorch visual operator library"
   buttons:
     - type: paper
@@ -87,8 +87,8 @@
   type: paper
   publisher: CVPR 2016 (Oral)
   image: images/1512.04412.png
-  description: "![GitHub Repo stars](https://img.shields.io/github/stars/daijifeng001/MNC)|
-    \ 1-st place winner of the COCO 2015 segmentation challenge. (0.36 sec/image test speed using VGG-16 net)"
+  description: "![GitHub Repo stars](https://img.shields.io/github/stars/daijifeng001/MNC)-
+    \ 1st place winner of the COCO 2015 segmentation challenge. (0.36 sec/image test speed using VGG-16 net)"
   buttons:
     - type: paper
       link: https://arxiv.org/abs/1512.04412
@@ -243,9 +243,10 @@
   type: paper
   publisher: ECCV 2022
   image: images/2203.17270.png
-  description: "![GitHub Repo stars](https://img.shields.io/github/stars/zhiqi-li/BEVFormer)|
-    \ The 6-th most influential paper in European Conference on Computer Vision (ECCV), 2022|
-    \ The 100 most cited AI papers of 2022. Automatic-driving competition Waymo 2022 champion"
+  description: "![GitHub Repo stars](https://img.shields.io/github/stars/zhiqi-li/BEVFormer)-
+    \ The 6th most influential paper in ECCV 2022-
+    \ The 100 most cited AI papers of 2022-
+    \ Automatic-driving competition Waymo 2022 champion"
   buttons:
     - type: paper
       link: https://arxiv.org/abs/2203.17270
