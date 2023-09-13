@@ -14,11 +14,10 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 {% include section.html %}
 ## Faculties
 {% include list.html data="members" component="portrait" filters="role: teacher" %}
-## Ph.D Students
-{% include list.html data="members" component="portrait" filters="role: phd" %}
-## Master Students
-{% include list.html data="members" component="portrait" filters="role: master" %}
-## Other Students and Interns
+## Students and Interns
+{% include list.html data="members" component="portrait" filters="role: phd" style="small" %}
+{% include list.html data="members" component="portrait" filters="role: master" style="small" %}
+{% include list.html data="members" component="portrait" filters="role: master" style="small" %}
 {% include portrait.html name="Weijie Su" style="small" %}
 {% include portrait.html name="Chenxin Tao" style="small" %}
 {% include portrait.html name="Hao Li" style="small" %}
