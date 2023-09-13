@@ -141,8 +141,9 @@
   link: https://arxiv.org/abs/1605.06409
   type: paper
   image: images/1605.06409.png
-  description: The 3-rd most influential paper in Neural Information Processing Systems
-    (NIPS), 2016. Pytorch visual operator library.
+  description: '![GitHub Repo stars](https://img.shields.io/github/stars/daijifeng001/R-FCN)|  The
+    3-rd most influential paper in Neural Information Processing Systems (NIPS), 2016|  Pytorch
+    visual operator library '
   buttons:
   - type: paper
     link: https://arxiv.org/abs/1605.06409
@@ -165,8 +166,9 @@
   link: https://arxiv.org/abs/2010.04159
   type: paper
   image: images/2010.04159.png
-  description: The 2-nd most influential paper in International Conference on Learning
-    Representations (ICLR), 2021.
+  description: '![GitHub Repo stars](https://img.shields.io/github/stars/fundamentalvision/Deformable-DETR)|  The
+    2-nd most influential paper in International Conference on Learning Representations
+    (ICLR), 2021'
   buttons:
   - type: paper
     link: https://arxiv.org/abs/2010.04159
@@ -190,8 +192,9 @@
   link: https://arxiv.org/abs/1703.06211
   type: paper
   image: images/1703.06211.png
-  description: The 6-th most influential paper in International Conference on Computer
-    Vision (ICCV), 2017. Pytorch visual operator library.
+  description: '![GitHub Repo stars](https://img.shields.io/github/stars/msracver/Deformable-ConvNets)|  The
+    6-th most influential paper in International Conference on Computer Vision (ICCV),
+    2017|  Pytorch visual operator library'
   buttons:
   - type: paper
     link: https://arxiv.org/abs/1703.06211
@@ -259,6 +262,7 @@
   link: https://arxiv.org/abs/1906.07155
   type: paper
   image: images/1906.07155.png
+  description: '![GitHub Repo stars](https://img.shields.io/github/stars/open-mmlab/mmdetection)'
   buttons:
   - type: paper
     link: https://arxiv.org/abs/1906.07155
@@ -278,8 +282,9 @@
   link: https://arxiv.org/abs/1512.04412
   type: paper
   image: images/1512.04412.png
-  description: 1-st place winner of the COCO 2015 segmentation challenge. (0.36 sec/image
-    test speed using VGG-16 net)
+  description: '![GitHub Repo stars](https://img.shields.io/github/stars/daijifeng001/MNC)|  1-st
+    place winner of the COCO 2015 segmentation challenge. (0.36 sec/image test speed
+    using VGG-16 net)'
   buttons:
   - type: paper
     link: https://arxiv.org/abs/1512.04412
@@ -300,6 +305,7 @@
   link: https://arxiv.org/abs/1811.11168
   type: paper
   image: images/1811.11168.png
+  description: '![GitHub Repo stars](https://img.shields.io/github/stars/msracver/Deformable-ConvNets)'
   buttons:
   - type: paper
     link: https://arxiv.org/abs/1811.11168
@@ -321,6 +327,7 @@
   link: https://arxiv.org/abs/1711.11575
   type: paper
   image: images/1711.11575.png
+  description: '![GitHub Repo stars](https://img.shields.io/github/stars/msracver/Relation-Networks-for-Object-Detection)'
   buttons:
   - type: paper
     link: https://arxiv.org/abs/1711.11575
@@ -342,6 +349,7 @@
   link: https://arxiv.org/abs/1611.07709
   type: paper
   image: images/1611.07709.png
+  description: '![GitHub Repo stars](https://img.shields.io/github/stars/msracver/FCIS)'
   buttons:
   - type: paper
     link: https://arxiv.org/abs/1611.07709
@@ -401,6 +409,7 @@
   link: https://arxiv.org/abs/1611.07715
   type: paper
   image: images/1611.07715.png
+  description: '![GitHub Repo stars](https://img.shields.io/github/stars/msracver/Deep-Feature-Flow)'
   buttons:
   - type: paper
     link: https://arxiv.org/abs/1611.07715
@@ -422,6 +431,7 @@
   link: https://arxiv.org/abs/1703.10025
   type: paper
   image: images/1703.10025.png
+  description: '![GitHub Repo stars](https://img.shields.io/github/stars/msracver/Flow-Guided-Feature-Aggregation)'
   buttons:
   - type: paper
     link: https://arxiv.org/abs/1703.10025
@@ -461,6 +471,7 @@
   link: https://arxiv.org/abs/1908.08530
   type: paper
   image: images/1908.08530.png
+  description: '![GitHub Repo stars](https://img.shields.io/github/stars/jackroos/VL-BERT)'
   buttons:
   - type: paper
     link: https://arxiv.org/abs/1908.08530
@@ -486,6 +497,7 @@
   link: https://arxiv.org/abs/2112.01522
   type: paper
   image: images/2112.01522.png
+  description: '![GitHub Repo stars](https://img.shields.io/github/stars/fundamentalvision/Uni-Perceiver)'
   buttons:
   - type: paper
     link: https://arxiv.org/abs/2112.01522
@@ -509,6 +521,7 @@
   link: https://arxiv.org/abs/2206.04674
   type: paper
   image: images/2206.04674.png
+  description: '![GitHub Repo stars](https://img.shields.io/github/stars/fundamentalvision/Uni-Perceiver)'
   buttons:
   - type: paper
     link: https://arxiv.org/abs/2206.04674
@@ -562,6 +575,7 @@
   link: https://arxiv.org/abs/2305.11175
   type: paper
   image: images/2305.11175.png
+  description: '![GitHub Repo stars](https://img.shields.io/github/stars/OpenGVLab/VisionLLM)'
   buttons:
   - type: paper
     link: https://arxiv.org/abs/2305.11175
@@ -587,9 +601,10 @@
   link: https://arxiv.org/abs/2203.17270
   type: paper
   image: images/2203.17270.png
-  description: The 6-th most influential paper in European Conference on Computer
-    Vision (ECCV), 2022. The 100 most cited AI papers of 2022. Automatic-driving competition
-    Waymo 2022 champion.
+  description: '![GitHub Repo stars](https://img.shields.io/github/stars/zhiqi-li/BEVFormer)|  The
+    6-th most influential paper in European Conference on Computer Vision (ECCV),
+    2022|  The 100 most cited AI papers of 2022. Automatic-driving competition Waymo
+    2022 champion'
   buttons:
   - type: paper
     link: https://arxiv.org/abs/2203.17270
@@ -648,6 +663,7 @@
   link: https://arxiv.org/abs/2212.10156
   type: paper
   image: images/2212.10156.png
+  description: '![GitHub Repo stars](https://img.shields.io/github/stars/opendrivelab/uniad)'
   buttons:
   - type: paper
     link: https://arxiv.org/abs/2212.10156
@@ -678,6 +694,7 @@
   link: https://arxiv.org/abs/2305.17144
   type: paper
   image: images/2305.17144.png
+  description: '![GitHub Repo stars](https://img.shields.io/github/stars/OpenGVLab/GITM)'
   buttons:
   - type: paper
     link: https://arxiv.org/abs/2305.17144
