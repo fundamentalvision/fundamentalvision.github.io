@@ -607,7 +607,7 @@
     link: https://arxiv.org/abs/2203.17270
   - type: source
     text: Code
-    link: https://github.com/zhiqi-li/BEVFormer
+    link: https://github.com/fundamentalvision/BEVFormer
   plugin: sources.py
   file: sources.yaml
 - id: arxiv:2211.10439
