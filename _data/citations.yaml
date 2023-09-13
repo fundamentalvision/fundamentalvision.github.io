@@ -96,10 +96,11 @@
   plugin: sources.py
   file: sources.yaml
   type: paper
-  description: "test description. ![GitHub Repo stars](https://img.shields.io/github/stars/daijifeng001/R-FCN)\
-    \ test stars. <a href=\"https://www.baidu.com\"><button style=\"padding: 10px; display: inline-flex; font-family: var(--heading); font-weight: var(--semi-bold);\
-    \ background-color: #0ea5e9; color: white; border: none; border-radius: 10px; margin: 5px; gap: 10px; max-width: calc(100% - 5px - 5px);\
-    \ cursor: pointer;\">Click Me</button></a>"
+  description: 'test description. ![GitHub Repo stars](https://img.shields.io/github/stars/daijifeng001/R-FCN)
+    test stars. <a href="https://www.baidu.com"><button style="padding: 10px; display:
+    inline-flex; font-family: var(--heading); font-weight: var(--semi-bold); background-color:
+    #0ea5e9; color: white; border: none; border-radius: 10px; margin: 5px; gap: 10px;
+    max-width: calc(100% - 5px - 5px); cursor: pointer;">Click Me</button></a>'
   image: images/different_items.gif
   buttons:
   - type: manubot
