@@ -1,7 +1,7 @@
 ---
 name: Muyan Zhong
 image: images/muyanzhong.jpg
-role: phd
+role: stuint
 description: PhD Student
 aliases:
   - Muyan Zhong

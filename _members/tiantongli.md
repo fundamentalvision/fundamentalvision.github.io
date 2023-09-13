@@ -1,7 +1,7 @@
 ---
 name: Tiantong Li
 image: images/tiantongli.jpg
-role: phd
+role: stuint
 description: PhD Student
 aliases:
   - Tiantong Li

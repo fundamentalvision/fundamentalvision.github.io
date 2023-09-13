@@ -1,7 +1,7 @@
 ---
 name: Shiqian Su
 image: images/shiqiansu.jpg
-role: phd
+role: stuint
 description: PhD Student
 aliases:
   - Shiqian Su

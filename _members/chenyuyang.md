@@ -1,7 +1,7 @@
 ---
 name: Chenyu Yang
 image: images/chenyuyang.jpg
-role: phd
+role: stuint
 description: PhD Student
 aliases:
   - Chenyu Yang
