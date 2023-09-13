@@ -18,7 +18,7 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 {% include list.html data="members" component="portrait" filters="role: phd" style="small" %}
 {% include list.html data="members" component="portrait" filters="role: master" style="small" %}
 {% include list.html data="members" component="portrait" filters="role: interns" style="small" %}
-{% include portrait.html name="test" image="images/senxing.jpg" style="small" url="https://scholar.google.com/citations?user=2ZZz69AAAAAJ&hl=en" %}
+{% include portrait.html name="test" image="images/senxing.jpg" style="small" %}
 
 ## Former
 {% include portrait.html name="Yi Li" style="small" %}
