@@ -97,10 +97,9 @@
   file: sources.yaml
   type: paper
   description: "test description. ![GitHub Repo stars](https://img.shields.io/github/stars/daijifeng001/R-FCN)\
-    \ test stars. <a href=\"https://www.baidu.com\"><button style=\"padding':' 10px\
-    \ 20px; background-color':' '#'4CAF50; color':' white; border':' none; border-radius':'\
-    \ 20px; cursor':' pointer;\">\u70B9\u51FB\u6211</button></a> [![BestPaper](/images/best_paper.png)](www.baidu.com)\
-    \ test url image."
+    \ test stars. <a href=\"https://www.baidu.com\"><button style=\"padding: 10px\
+    \ 20px; background-color: #4CAF50; color: white; border: none; border-radius:\
+    \ 20px; cursor: pointer;\">Click Me</button></a>"
   image: images/different_items.gif
   buttons:
   - type: manubot
