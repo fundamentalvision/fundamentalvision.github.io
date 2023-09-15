@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-Our laboratory is now hiring, welcome to join. Please feel free to contact 
+Our laboratory is now hiring, welcome to join. Please feel free to contact us.
 
 {%
   include button.html
