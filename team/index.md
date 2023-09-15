@@ -16,7 +16,7 @@ Our team is led by Associate Professor Jifeng Dai and currently has dozens of st
 {% include list.html data="members" component="portrait" filters="role: stuint" style="small" %}
 
 ## Former
-{% include portrait.html name="Yi Li" style="small" %}
+{% include list.html data="members" component="portrait" filters="role: former" style="small" %}
 {% include portrait.html name="Haozhi Qi" style="small" %}
 {% include portrait.html name="Xizhou Zhu" style="small" %}
 {% include portrait.html name="Yuwen Xiong" style="small" %}
@@ -37,10 +37,5 @@ Our team is led by Associate Professor Jifeng Dai and currently has dozens of st
 {% include portrait.html name="Zizhang Li" style="small" %}
 {% include portrait.html name="Zhiqi Li" style="small" %}
 
-{% include section.html background="images/background.jpg" dark=true %}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {% include section.html %}
