@@ -1,5 +1,5 @@
 ---
 name: Hengjun Pu
-image: images/photo.jpg
+image: images/hengjunpu.jpg
 role: stuint
 ---
