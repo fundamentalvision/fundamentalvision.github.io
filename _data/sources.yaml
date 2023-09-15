@@ -3,7 +3,7 @@
   description: "test description. ![GitHub Repo stars](https://img.shields.io/github/stars/daijifeng001/R-FCN)\
     \ test stars. <a href=\"https://www.baidu.com\"><button style=\"padding: 10px; display: inline-flex; font-family: var(--heading); font-weight: var(--semi-bold);\
     \ background-color: #0ea5e9; color: white; border: none; border-radius: 10px; margin: 5px; gap: 10px; max-width: calc(100% - 5px - 5px);\
-    \ cursor: pointer;\">Click Me</button></a>"
+    \ cursor: pointer;\">Click Me</button></a> test button style"
   date: 2020-12-4
   # image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
   image: images/different_items.gif
