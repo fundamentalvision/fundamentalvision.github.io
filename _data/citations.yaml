@@ -100,7 +100,8 @@
     test stars. <a href="https://www.baidu.com"><button style="padding: 10px; display:
     inline-flex; font-family: var(--heading); font-weight: var(--semi-bold); background-color:
     #0ea5e9; color: white; border: none; border-radius: 10px; margin: 5px; gap: 10px;
-    max-width: calc(100% - 5px - 5px); cursor: pointer;">Click Me</button></a>'
+    max-width: calc(100% - 5px - 5px); cursor: pointer;">Click Me</button></a> test
+    button style'
   image: images/different_items.gif
   buttons:
   - type: manubot
@@ -142,8 +143,17 @@
   link: https://arxiv.org/abs/1605.06409
   type: paper
   image: images/1605.06409.png
-  description: '![GitHub Repo stars](https://img.shields.io/github/stars/daijifeng001/R-FCN)-  The
-    3rd most influential paper in NeurIPS 2016-  Pytorch visual operator library'
+  description: '<img src="https://img.shields.io/github/stars/daijifeng001/R-FCN"
+    style="margin:5px ;vertical-align: middle"> <a href="https://www.paperdigest.org/2022/02/most-influential-nips-papers-2022-02/"><button
+    style="padding: 10px; display: inline-flex; font-family: var(--heading); font-weight:
+    var(--semi-bold); background-color: #0ea5e9; color: white; border: none; border-radius:
+    10px; margin: 5px; gap: 10px; max-width: calc(100% - 5px - 5px); vertical-align:
+    middle; cursor: pointer;">3rd of the most influential papers in NIPS 2016</button></a>
+    <a href="https://pytorch.org/vision/main/generated/torchvision.ops.ps_roi_pool.html"><button
+    style="padding: 10px; display: inline-flex; font-family: var(--heading); font-weight:
+    var(--semi-bold); background-color: #0ea5e9; color: white; border: none; border-radius:
+    10px; margin: 5px; gap: 10px; max-width: calc(100% - 5px - 5px); vertical-align:
+    middle; cursor: pointer;">Pytorch visual operator library</button></a>'
   buttons:
   - type: paper
     link: https://arxiv.org/abs/1605.06409
@@ -166,8 +176,12 @@
   link: https://arxiv.org/abs/2010.04159
   type: paper
   image: images/2010.04159.png
-  description: '![GitHub Repo stars](https://img.shields.io/github/stars/fundamentalvision/Deformable-DETR)-  The
-    2nd most influential paper in ICLR 2021'
+  description: '<img src="https://img.shields.io/github/stars/fundamentalvision/Deformable-DETR"
+    style="margin:5px ;vertical-align: middle"> <a href="https://www.paperdigest.org/2022/02/most-influential-iclr-papers-2022-02/"><button
+    style="padding: 10px; display: inline-flex; font-family: var(--heading); font-weight:
+    var(--semi-bold); background-color: #0ea5e9; color: white; border: none; border-radius:
+    10px; margin: 5px; gap: 10px; max-width: calc(100% - 5px - 5px); vertical-align:
+    middle; cursor: pointer;">2nd of the most influential papers in ICLR 2021</button></a>'
   buttons:
   - type: paper
     link: https://arxiv.org/abs/2010.04159
@@ -191,8 +205,17 @@
   link: https://arxiv.org/abs/1703.06211
   type: paper
   image: images/1703.06211.png
-  description: '![GitHub Repo stars](https://img.shields.io/github/stars/msracver/Deformable-ConvNets)-  The
-    6th most influential paper in ICCV 2017-  Pytorch visual operator library'
+  description: '<img src="https://img.shields.io/github/stars/msracver/Deformable-ConvNets"
+    style="margin:5px ;vertical-align: middle"> <a href="https://www.paperdigest.org/2022/05/most-influential-iccv-papers-2022-05/"><button
+    style="padding: 10px; display: inline-flex; font-family: var(--heading); font-weight:
+    var(--semi-bold); background-color: #0ea5e9; color: white; border: none; border-radius:
+    10px; margin: 5px; gap: 10px; max-width: calc(100% - 5px - 5px); vertical-align:
+    middle; cursor: pointer;">6th of the most influential papers in ICCV 2017</button></a>
+    <a href="https://pytorch.org/vision/0.15/generated/torchvision.ops.deform_conv2d.html"><button
+    style="padding: 10px; display: inline-flex; font-family: var(--heading); font-weight:
+    var(--semi-bold); background-color: #0ea5e9; color: white; border: none; border-radius:
+    10px; margin: 5px; gap: 10px; max-width: calc(100% - 5px - 5px); vertical-align:
+    middle; cursor: pointer;">Pytorch visual operator library</button></a>'
   buttons:
   - type: paper
     link: https://arxiv.org/abs/1703.06211
@@ -260,7 +283,8 @@
   link: https://arxiv.org/abs/1906.07155
   type: paper
   image: images/1906.07155.png
-  description: '![GitHub Repo stars](https://img.shields.io/github/stars/open-mmlab/mmdetection)'
+  description: '<img src="https://img.shields.io/github/stars/open-mmlab/mmdetection"
+    style="margin:5px ;vertical-align: middle">'
   buttons:
   - type: paper
     link: https://arxiv.org/abs/1906.07155
@@ -280,9 +304,12 @@
   link: https://arxiv.org/abs/1512.04412
   type: paper
   image: images/1512.04412.png
-  description: '![GitHub Repo stars](https://img.shields.io/github/stars/daijifeng001/MNC)-  1st
-    place winner of the COCO 2015 segmentation challenge. (0.36 sec/image test speed
-    using VGG-16 net)'
+  description: '<img src="https://img.shields.io/github/stars/daijifeng001/MNC" style="margin:5px
+    ;vertical-align: middle"> <button style="padding: 10px; display: inline-flex;
+    font-family: var(--heading); font-weight: var(--semi-bold); background-color:
+    #0ea5e9; color: white; border: none; border-radius: 10px; margin: 5px; gap: 10px;
+    max-width: calc(100% - 5px - 5px); vertical-align: middle; cursor: pointer;">COCO
+    2015 Segmentation Challenge Championship</button>'
   buttons:
   - type: paper
     link: https://arxiv.org/abs/1512.04412
@@ -303,7 +330,8 @@
   link: https://arxiv.org/abs/1811.11168
   type: paper
   image: images/1811.11168.png
-  description: '![GitHub Repo stars](https://img.shields.io/github/stars/msracver/Deformable-ConvNets)'
+  description: '<img src="https://img.shields.io/github/stars/msracver/Deformable-ConvNets"
+    style="margin:5px ;vertical-align: middle">'
   buttons:
   - type: paper
     link: https://arxiv.org/abs/1811.11168
@@ -325,7 +353,8 @@
   link: https://arxiv.org/abs/1711.11575
   type: paper
   image: images/1711.11575.png
-  description: '![GitHub Repo stars](https://img.shields.io/github/stars/msracver/Relation-Networks-for-Object-Detection)'
+  description: '<img src="https://img.shields.io/github/stars/msracver/Relation-Networks-for-Object-Detection"
+    style="margin:5px ;vertical-align: middle">'
   buttons:
   - type: paper
     link: https://arxiv.org/abs/1711.11575
@@ -347,7 +376,8 @@
   link: https://arxiv.org/abs/1611.07709
   type: paper
   image: images/1611.07709.png
-  description: '![GitHub Repo stars](https://img.shields.io/github/stars/msracver/FCIS)'
+  description: '<img src="https://img.shields.io/github/stars/msracver/FCIS" style="margin:5px
+    ;vertical-align: middle">'
   buttons:
   - type: paper
     link: https://arxiv.org/abs/1611.07709
@@ -407,7 +437,8 @@
   link: https://arxiv.org/abs/1611.07715
   type: paper
   image: images/1611.07715.png
-  description: '![GitHub Repo stars](https://img.shields.io/github/stars/msracver/Deep-Feature-Flow)'
+  description: '<img src="https://img.shields.io/github/stars/msracver/Deep-Feature-Flow"
+    style="margin:5px ;vertical-align: middle">'
   buttons:
   - type: paper
     link: https://arxiv.org/abs/1611.07715
@@ -429,7 +460,8 @@
   link: https://arxiv.org/abs/1703.10025
   type: paper
   image: images/1703.10025.png
-  description: '![GitHub Repo stars](https://img.shields.io/github/stars/msracver/Flow-Guided-Feature-Aggregation)'
+  description: '<img src="https://img.shields.io/github/stars/msracver/Flow-Guided-Feature-Aggregation"
+    style="margin:5px ;vertical-align: middle">'
   buttons:
   - type: paper
     link: https://arxiv.org/abs/1703.10025
@@ -469,7 +501,12 @@
   link: https://arxiv.org/abs/1908.08530
   type: paper
   image: images/1908.08530.png
-  description: '![GitHub Repo stars](https://img.shields.io/github/stars/jackroos/VL-BERT)'
+  description: '<img src="https://img.shields.io/github/stars/jackroos/VL-BERT" style="margin:5px
+    ;vertical-align: middle"> <a href="https://www.paperdigest.org/2022/02/most-influential-iclr-papers-2022-02/"><button
+    style="padding: 10px; display: inline-flex; font-family: var(--heading); font-weight:
+    var(--semi-bold); background-color: #0ea5e9; color: white; border: none; border-radius:
+    10px; margin: 5px; gap: 10px; max-width: calc(100% - 5px - 5px); vertical-align:
+    middle; cursor: pointer;">7th of the most influential papers in ICLR 2020</button></a>'
   buttons:
   - type: paper
     link: https://arxiv.org/abs/1908.08530
@@ -495,7 +532,8 @@
   link: https://arxiv.org/abs/2112.01522
   type: paper
   image: images/2112.01522.png
-  description: '![GitHub Repo stars](https://img.shields.io/github/stars/fundamentalvision/Uni-Perceiver)'
+  description: '<img src="https://img.shields.io/github/stars/fundamentalvision/Uni-Perceiver"
+    style="margin:5px ;vertical-align: middle">'
   buttons:
   - type: paper
     link: https://arxiv.org/abs/2112.01522
@@ -519,7 +557,8 @@
   link: https://arxiv.org/abs/2206.04674
   type: paper
   image: images/2206.04674.png
-  description: '![GitHub Repo stars](https://img.shields.io/github/stars/fundamentalvision/Uni-Perceiver)'
+  description: '<img src="https://img.shields.io/github/stars/fundamentalvision/Uni-Perceiver"
+    style="margin:5px ;vertical-align: middle">'
   buttons:
   - type: paper
     link: https://arxiv.org/abs/2206.04674
@@ -573,7 +612,8 @@
   link: https://arxiv.org/abs/2305.11175
   type: paper
   image: images/2305.11175.png
-  description: '![GitHub Repo stars](https://img.shields.io/github/stars/OpenGVLab/VisionLLM)'
+  description: '<img src="https://img.shields.io/github/stars/OpenGVLab/VisionLLM"
+    style="margin:5px ;vertical-align: middle">'
   buttons:
   - type: paper
     link: https://arxiv.org/abs/2305.11175
@@ -604,16 +644,16 @@
     style="padding: 10px; display: inline-flex; font-family: var(--heading); font-weight:
     var(--semi-bold); background-color: #0ea5e9; color: white; border: none; border-radius:
     10px; margin: 5px; gap: 10px; max-width: calc(100% - 5px - 5px); vertical-align:
-    middle; cursor: pointer;">6th most influential paper in ECCV 2022</button></a>
-    <a href="https://www.paperdigest.org/2023/01/most-influential-eccv-papers-2023-01/"><button
+    middle; cursor: pointer;">6th of the most influential papers in ECCV 2022</button></a>
+    <a href="https://www.zeta-alpha.com/post/must-read-the-100-most-cited-ai-papers-in-2022"><button
     style="padding: 10px; display: inline-flex; font-family: var(--heading); font-weight:
     var(--semi-bold); background-color: #0ea5e9; color: white; border: none; border-radius:
     10px; margin: 5px; gap: 10px; max-width: calc(100% - 5px - 5px); vertical-align:
-    middle; cursor: pointer;">100 most cited AI papers of 2022</button></a> <a href="https://www.paperdigest.org/2023/01/most-influential-eccv-papers-2023-01/"><button
+    middle; cursor: pointer;">100 most cited AI papers of 2022</button></a> <a href="https://waymo.com/open/challenges/2022/3d-camera-only-detection/"><button
     style="padding: 10px; display: inline-flex; font-family: var(--heading); font-weight:
     var(--semi-bold); background-color: #0ea5e9; color: white; border: none; border-radius:
     10px; margin: 5px; gap: 10px; max-width: calc(100% - 5px - 5px); vertical-align:
-    middle; cursor: pointer;">Waymo 2022 champion</button></a>'
+    middle; cursor: pointer;">Waymo 2022 Championship</button></a>'
   buttons:
   - type: paper
     link: https://arxiv.org/abs/2203.17270
@@ -672,12 +712,12 @@
   link: https://arxiv.org/abs/2212.10156
   type: paper
   image: images/2212.10156.png
-  description: '![GitHub Repo stars](https://img.shields.io/github/stars/opendrivelab/uniad)<a
-    href="https://cvpr2023.thecvf.com/Conferences/2023/Awards"><button style="padding:
-    10px; display: inline-flex; font-family: var(--heading); font-weight: var(--semi-bold);
-    background-color: #0ea5e9; color: white; border: none; border-radius: 10px; margin:
-    5px; gap: 10px; max-width: calc(100% - 5px - 5px); vertical-align: middle; cursor:
-    pointer;">BEST PAPER</button></a>'
+  description: '<img src="https://img.shields.io/github/stars/opendrivelab/uniad"
+    style="margin:5px ;vertical-align: middle"> <a href="https://cvpr2023.thecvf.com/Conferences/2023/Awards"><button
+    style="padding: 10px; display: inline-flex; font-family: var(--heading); font-weight:
+    var(--semi-bold); background-color: #0ea5e9; color: white; border: none; border-radius:
+    10px; margin: 5px; gap: 10px; max-width: calc(100% - 5px - 5px); vertical-align:
+    middle; cursor: pointer;">Best Paper Award of CVPR 2023</button></a>'
   buttons:
   - type: paper
     link: https://arxiv.org/abs/2212.10156
@@ -708,7 +748,8 @@
   link: https://arxiv.org/abs/2305.17144
   type: paper
   image: images/2305.17144.png
-  description: '![GitHub Repo stars](https://img.shields.io/github/stars/OpenGVLab/GITM)'
+  description: '<img src="https://img.shields.io/github/stars/OpenGVLab/GITM" style="margin:5px
+    ;vertical-align: middle">'
   buttons:
   - type: paper
     link: https://arxiv.org/abs/2305.17144
