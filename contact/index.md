@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-Our laboratory is now hiring, welcome to join. Please feel free to contact us!
+Our laboratory is now hiring, welcome to join. Please feel free to contact 
 
 {%
   include button.html
@@ -21,12 +21,7 @@ Our laboratory is now hiring, welcome to join. Please feel free to contact us!
   text="Jifeng Dai"
   link="SH_-B_AAAAAJ"
 %}
-{%
-  include button.html
-  type="address"
-  tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps"
-%}
 
 {% include section.html %}
 
+{% include figure.html image="images/location.png" caption="8F Rohm Building, Tsinghua University, 100084, Beijing, P.R.China" %}
