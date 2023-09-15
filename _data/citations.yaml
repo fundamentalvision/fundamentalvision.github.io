@@ -149,7 +149,7 @@
     var(--semi-bold); background-color: #0ea5e9; color: white; border: none; border-radius:
     10px; margin: 5px; gap: 10px; max-width: calc(100% - 5px - 5px); vertical-align:
     middle; cursor: pointer;">3rd of the most influential papers in NIPS 2016</button></a>
-    <a href="https://www.paperdigest.org/2022/02/most-influential-nips-papers-2022-02/"><button
+    <a href="https://pytorch.org/vision/main/generated/torchvision.ops.ps_roi_pool.html"><button
     style="padding: 10px; display: inline-flex; font-family: var(--heading); font-weight:
     var(--semi-bold); background-color: #0ea5e9; color: white; border: none; border-radius:
     10px; margin: 5px; gap: 10px; max-width: calc(100% - 5px - 5px); vertical-align:
@@ -211,7 +211,7 @@
     var(--semi-bold); background-color: #0ea5e9; color: white; border: none; border-radius:
     10px; margin: 5px; gap: 10px; max-width: calc(100% - 5px - 5px); vertical-align:
     middle; cursor: pointer;">6th of the most influential papers in ICCV 2017</button></a>
-    <a href="https://www.paperdigest.org/2022/05/most-influential-iccv-papers-2022-05/"><button
+    <a href="https://pytorch.org/vision/0.15/generated/torchvision.ops.deform_conv2d.html"><button
     style="padding: 10px; display: inline-flex; font-family: var(--heading); font-weight:
     var(--semi-bold); background-color: #0ea5e9; color: white; border: none; border-radius:
     10px; margin: 5px; gap: 10px; max-width: calc(100% - 5px - 5px); vertical-align:
@@ -645,11 +645,11 @@
     var(--semi-bold); background-color: #0ea5e9; color: white; border: none; border-radius:
     10px; margin: 5px; gap: 10px; max-width: calc(100% - 5px - 5px); vertical-align:
     middle; cursor: pointer;">6th of the most influential papers in ECCV 2022</button></a>
-    <a href="https://www.paperdigest.org/2023/01/most-influential-eccv-papers-2023-01/"><button
+    <a href="https://www.zeta-alpha.com/post/must-read-the-100-most-cited-ai-papers-in-2022"><button
     style="padding: 10px; display: inline-flex; font-family: var(--heading); font-weight:
     var(--semi-bold); background-color: #0ea5e9; color: white; border: none; border-radius:
     10px; margin: 5px; gap: 10px; max-width: calc(100% - 5px - 5px); vertical-align:
-    middle; cursor: pointer;">100 most cited AI papers of 2022</button></a> <a href="https://www.paperdigest.org/2023/01/most-influential-eccv-papers-2023-01/"><button
+    middle; cursor: pointer;">100 most cited AI papers of 2022</button></a> <a href="https://waymo.com/open/challenges/2022/3d-camera-only-detection/"><button
     style="padding: 10px; display: inline-flex; font-family: var(--heading); font-weight:
     var(--semi-bold); background-color: #0ea5e9; color: white; border: none; border-radius:
     10px; margin: 5px; gap: 10px; max-width: calc(100% - 5px - 5px); vertical-align:
