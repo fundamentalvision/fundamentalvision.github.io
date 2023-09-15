@@ -57,8 +57,6 @@ The laboratory has published more than 60 academic papers, and many papers repre
 
 {% include citation.html lookup="BoxSup: Exploiting Bounding Boxes to Supervise Convolutional Networks for Semantic Segmentation" style="rich" %}
 
-{% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
-
 {% include section.html %}
 
 ## All
