@@ -305,11 +305,11 @@
   type: paper
   image: images/1512.04412.png
   description: '<img src="https://img.shields.io/github/stars/daijifeng001/MNC" style="margin:5px
-    ;vertical-align: middle"> <a href=" "><button style="padding: 10px; display: inline-flex;
+    ;vertical-align: middle"> <button style="padding: 10px; display: inline-flex;
     font-family: var(--heading); font-weight: var(--semi-bold); background-color:
     #0ea5e9; color: white; border: none; border-radius: 10px; margin: 5px; gap: 10px;
     max-width: calc(100% - 5px - 5px); vertical-align: middle; cursor: pointer;">COCO
-    2015 Segmentation Challenge Championship</button></a>'
+    2015 Segmentation Challenge Championship</button>'
   buttons:
   - type: paper
     link: https://arxiv.org/abs/1512.04412
