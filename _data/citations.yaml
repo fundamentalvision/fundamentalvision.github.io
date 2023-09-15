@@ -502,7 +502,11 @@
   type: paper
   image: images/1908.08530.png
   description: '<img src="https://img.shields.io/github/stars/jackroos/VL-BERT" style="margin:5px
-    ;vertical-align: middle">'
+    ;vertical-align: middle"> <a href="https://www.paperdigest.org/2022/02/most-influential-iclr-papers-2022-02/"><button
+    style="padding: 10px; display: inline-flex; font-family: var(--heading); font-weight:
+    var(--semi-bold); background-color: #0ea5e9; color: white; border: none; border-radius:
+    10px; margin: 5px; gap: 10px; max-width: calc(100% - 5px - 5px); vertical-align:
+    middle; cursor: pointer;">7th of the most influential papers in ICLR 2020</button></a>'
   buttons:
   - type: paper
     link: https://arxiv.org/abs/1908.08530
