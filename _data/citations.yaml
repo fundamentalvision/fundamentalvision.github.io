@@ -123,6 +123,7 @@
   type: paper
   image: images/1605.06409.png
   description: '<img src="https://img.shields.io/github/stars/daijifeng001/R-FCN"
+    style="margin:5px ;vertical-align: middle"> <img src="https://img.shields.io/github/stars/YuwenXiong/py-R-FCN"
     style="margin:5px ;vertical-align: middle"> <a href="https://www.paperdigest.org/2022/02/most-influential-nips-papers-2022-02/"><button
     style="padding: 10px; display: inline-flex; font-family: var(--heading); font-weight:
     var(--semi-bold); background-color: #0ea5e9; color: white; border: none; border-radius:
@@ -137,8 +138,11 @@
   - type: paper
     link: https://arxiv.org/abs/1605.06409
   - type: source
-    text: Code
+    text: Code (caffe)
     link: https://github.com/daijifeng001/R-FCN
+  - type: source
+    text: Code (pytorch)
+    link: https://github.com/YuwenXiong/py-R-FCN
   plugin: sources.py
   file: sources.yaml
 - id: arxiv:2010.04159
@@ -227,6 +231,9 @@
   buttons:
   - type: paper
     link: https://arxiv.org/abs/2211.05778
+  - type: source
+    text: Code
+    link: https://github.com/OpenGVLab/InternImage
   plugin: sources.py
   file: sources.yaml
 - id: arxiv:1906.07155
