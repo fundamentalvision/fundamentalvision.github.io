@@ -11,7 +11,7 @@ I didn't meet you during the best times of my life; it's meeting you that gave m
 
 
 
-Our laboratory is now hiring interns, master students, Ph.D. students, postdoctoral researcher, and engineers. Welcome to join us.
+Our laboratory is now hiring interns, master students, Ph.D. students, postdoctoral researchers, and engineers. Welcome to join us.
 
 
 
