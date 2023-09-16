@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Publications
 
-The laboratory has published more than 60 academic papers, and many papers represented by deformable convolution have had great influence in the field.
+We try our best to do research with long-term impact.
 
 {% include section.html %}
 
