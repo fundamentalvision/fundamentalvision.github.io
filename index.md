@@ -1,9 +1,9 @@
 ---
 ---
 
-# fundamentalvision's Website
+# Fundamental Vision's Website
 
-The Fundamental Vision Laboratory is leaded by Associate Professor Jifeng Dai, in Electronic Engineering Department, Tsinghua University. The laboratory is mainly engaged in the fields of computer vision and deep learning, dedicated to developing fundamental approaches to advance visual perception and intelligence. There are four main research projects: foundation model for visual perception, generic model for multi-modal perception, perception and decision-making integration for autonomous driving, and foundation model for general intelligent agents. The laboratory has published more than 60 academic papers, and many of the papers, represented by deformable convolution, have become benchmark results in the field and have been selected as standard operators of the deep learning framework PyTorch.
+The Fundamental Vision Laboratory is leaded by Associate Professor Jifeng Dai, affiliated with Electronic Engineering, Tsinghua University. The laboratory is mainly engaged in the fields of computer vision and deep learning, dedicated to developing fundamental approaches to advance visual perception and artificial general intelligence. There are four main research projects: foundation model for visual perception, generic model for multi-modal perception, perception and decision-making integration for autonomous driving, and foundation model for general intelligent agents. The laboratory has published more than 60 academic papers, and many of the papers, represented by deformable convolution, have become benchmark methods in the field and have been integrated as standard operators in PyTorch.
 
 {% include section.html %}
 
@@ -34,7 +34,7 @@ We are interested in developing foundational algorithms, models, and tools for v
 
 {% capture text %}
 
-List of our publications.
+We try our best to do research with long-term impact.
 
 {%
   include button.html
@@ -58,7 +58,8 @@ List of our publications.
 
 {% capture text %}
 
-Our team members.
+I didn't meet you during the best times of my life; it's meeting you that gave me the best times of my life.
+
 
 {%
   include button.html
