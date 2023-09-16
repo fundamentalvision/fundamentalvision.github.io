@@ -49,7 +49,7 @@ List of our publications.
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/publication.png"
   link="publications"
   title="Our Publications"
   flip=true
@@ -73,7 +73,7 @@ Our team members.
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/team.png"
   link="team"
   title="Our Team"
   text=text
