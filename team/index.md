@@ -7,7 +7,13 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
-Our team is led by Associate Professor Jifeng Dai and currently has dozens of students and interns. Our laboratory is now hiring, welcome to join.
+I didn't meet you during the best times of my life; it's meeting you that gave me the best times of my life.
+
+
+
+Our laboratory is now hiring interns, master students, Ph.D. students, postdoctoral researcher, and engineers. Welcome to join us.
+
+
 
 {% include section.html %}
 ## Faculties
