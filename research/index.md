@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Research
 
-The Fundamental Vision Laboratory is dedicated to solving the fundamental problems and challenges of computer vision. We are interested in developing foundational algorithms, models, and tools for visual perception as well as exploring unified approaches for general vision-centric multi-modal tasks and open-world scenarios. Our research projects include foundation model for visual perception, generic model for multi-modal perception, perception and decision-making intergration for autonomous driving, and foundation model for general intelligent agents. 
+The Fundamental Vision Laboratory is dedicated to solving the fundamental problems and challenges of visual perception and artificial general intelligence. We are interested in developing foundational algorithms, models, and tools for visual perception. We also explore unified approaches for general vision-centric multi-modal tasks, which can be generalized to open-world scenarios. Our research projects include foundation model for visual perception, generic model for multi-modal perception, perception and decision-making intergration for autonomous driving, and foundation model for general intelligent agents. 
 
 {% include tags.html tags="publication, resource, website" %}
 

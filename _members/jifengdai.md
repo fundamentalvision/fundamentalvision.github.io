@@ -7,7 +7,7 @@ aliases:
   - Jifeng Dai
 links:
   home-page: https://jifengdai.org
-  google-scholar: https://scholar.google.com/citations?user=SH_-B_AAAAAJ&hl=en
+  google-scholar: SH_-B_AAAAAJ
   email: daijifeng@tsingahua.edu.cn
 ---
 
