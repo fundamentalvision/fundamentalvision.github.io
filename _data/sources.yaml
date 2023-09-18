@@ -41,6 +41,7 @@
   type: paper
   publisher: CVPR 2023 (Highlight)
   image: images/2211.05778.png
+  description: "<img src=\"https://img.shields.io/github/stars/OpenGVLab/InternImage\" style=\"margin:5px ;vertical-align: middle\">"
   buttons:
     - type: paper
       link: https://arxiv.org/abs/2211.05778
