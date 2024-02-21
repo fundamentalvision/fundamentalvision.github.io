@@ -1,5 +1,75 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1093/nar/gkad1082
+  title: "The Monarch Initiative in 2024: an analytic platform integrating phenotypes,\
+    \ genes\_and diseases across species"
+  authors:
+  - Tim E Putman
+  - Kevin Schaper
+  - Nicolas Matentzoglu
+  - "Vincent\_P Rubinetti"
+  - "Faisal\_S Alquaddoomi"
+  - Corey Cox
+  - J Harry Caufield
+  - Glass Elsarboukh
+  - Sarah Gehrke
+  - Harshad Hegde
+  - "Justin\_T Reese"
+  - Ian Braun
+  - "Richard\_M Bruskiewich"
+  - Luca Cappelletti
+  - Seth Carbon
+  - "Anita\_R Caron"
+  - "Lauren\_E Chan"
+  - "Christopher\_G Chute"
+  - "Katherina\_G Cortes"
+  - "Vin\xEDcius De\_Souza"
+  - Tommaso Fontana
+  - "Nomi\_L Harris"
+  - "Emily\_L Hartley"
+  - Eric Hurwitz
+  - "Julius\_O B Jacobsen"
+  - Madan Krishnamurthy
+  - "Bryan\_J Laraway"
+  - "James\_A McLaughlin"
+  - "Julie\_A McMurry"
+  - "Sierra\_A T Moxon"
+  - "Kathleen\_R Mullen"
+  - "Shawn\_T O\u2019Neil"
+  - "Kent\_A Shefchek"
+  - Ray Stefancsik
+  - Sabrina Toro
+  - "Nicole\_A Vasilevsky"
+  - "Ramona\_L Walls"
+  - "Patricia\_L Whetzel"
+  - David Osumi-Sutherland
+  - Damian Smedley
+  - "Peter\_N Robinson"
+  - "Christopher\_J Mungall"
+  - "Melissa\_A Haendel"
+  - "Monica\_C Munoz-Torres"
+  publisher: Nucleic Acids Research
+  date: '2023-11-24'
+  link: https://doi.org/gs6kmr
+  orcid: 0000-0002-4655-3773
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2023.10.11.560955
+  title: Integration of 168,000 samples reveals global patterns of the human gut microbiome
+  authors:
+  - Richard J. Abdill
+  - Samantha P. Graham
+  - Vincent Rubinetti
+  - Frank W. Albert
+  - Casey S. Greene
+  - Sean Davis
+  - Ran Blekhman
+  publisher: Cold Spring Harbor Laboratory
+  date: '2023-10-11'
+  link: https://doi.org/gsvf5z
+  orcid: 0000-0002-4655-3773
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1093/nar/gkad289
   title: 'MyGeneset.info: an interactive and programmatic platform for community-curated
     and user-created collections of genes'
@@ -64,6 +134,28 @@
   orcid: 0000-0002-4655-3773
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1101/2022.02.18.461833
+  title: 'MolEvolvR: A web-app for characterizing proteins using molecular evolution
+    and phylogeny'
+  authors:
+  - Jacob D Krol
+  - Joseph T Burke
+  - Samuel Z Chen
+  - Lo Sosinski
+  - Faisal S Alquaddoomi
+  - Evan P Brenner
+  - Ethan P Wolfe
+  - Vince P Rubinetti
+  - Shaddai Amolitos
+  - Kellen M Reason
+  - John B Johnston
+  - Janani Ravi
+  publisher: Cold Spring Harbor Laboratory
+  date: '2022-02-22'
+  link: https://doi.org/gstx7j
+  orcid: 0000-0002-4655-3773
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1186/s13059-020-02021-3
   title: Compressing gene expression data using multiple latent space dimensionalities
     learns complementary biological representations
@@ -118,7 +210,7 @@
   - Kaiming He
   - Jian Sun
   publisher: NeurIPS 2016
-  date: '2016-06-22'
+  date: '2023-12-12'
   link: https://arxiv.org/abs/1605.06409
   type: paper
   image: images/1605.06409.png
@@ -595,7 +687,7 @@
   - Jie Zhou
   - Yu Qiao
   - Jifeng Dai
-  publisher: Arxiv Tech Report 2023
+  publisher: arxiv
   date: '2023-05-26'
   link: https://arxiv.org/abs/2305.11175
   type: paper
@@ -764,7 +856,7 @@
   - Tong Lu
   - Jifeng Dai
   - Yu Qiao
-  publisher: Arxiv Tech Report 2023
+  publisher: arxiv
   date: '2023-08-04'
   link: https://arxiv.org/abs/2308.01907
   type: paper
@@ -773,13 +865,13 @@
     link: https://arxiv.org/abs/2308.01907
   - type: source
     text: Code
-    link: https://github.com/opengvlab/all-seeing
+    link: https://github.com/OpenGVLab/all-seeing
   plugin: sources.py
   file: sources.yaml
 - id: arxiv:2211.05781
   title: Demystify Transformers & Convolutions in Modern Image Deep Networks
   authors:
-  - Jifeng Dai
+  - Xiaowei Hu
   - Min Shi
   - Weiyun Wang
   - Sitong Wu
@@ -790,9 +882,9 @@
   - Jie Zhou
   - Xiaogang Wang
   - Yu Qiao
-  - Xiaowei Hu
+  - Jifeng Dai
   publisher: Arxiv Tech Report 2022
-  date: '2022-11-11'
+  date: '2023-12-04'
   link: https://arxiv.org/abs/2211.05781
   type: paper
   buttons:
@@ -1093,5 +1185,178 @@
   - type: source
     text: Code
     link: http://www.stat.ucla.edu/~yang.lu/Project/generativeCNN/main.html
+  plugin: sources.py
+  file: sources.yaml
+- id: arxiv:2401.06197
+  title: 'Efficient Deformable ConvNets: Rethinking Dynamic and Sparse Operator for
+    Vision Applications'
+  authors:
+  - Yuwen Xiong
+  - Zhiqi Li
+  - Yuntao Chen
+  - Feng Wang
+  - Xizhou Zhu
+  - Jiapeng Luo
+  - Wenhai Wang
+  - Tong Lu
+  - Hongsheng Li
+  - Yu Qiao
+  - Lewei Lu
+  - Jie Zhou
+  - Jifeng Dai
+  publisher: arxiv
+  date: '2024-01-15'
+  link: https://arxiv.org/abs/2401.06197
+  type: paper
+  buttons:
+  - type: paper
+    link: https://arxiv.org/abs/2401.06197
+  - type: source
+    text: Code
+    link: https://github.com/OpenGVLab/DCNv4
+  plugin: sources.py
+  file: sources.yaml
+- id: arxiv:2401.10208
+  title: 'MM-Interleaved: Interleaved Image-Text Generative Modeling via Multi-modal
+    Feature Synchronizer'
+  authors:
+  - Changyao Tian
+  - Xizhou Zhu
+  - Yuwen Xiong
+  - Weiyun Wang
+  - Zhe Chen
+  - Wenhai Wang
+  - Yuntao Chen
+  - Lewei Lu
+  - Tong Lu
+  - Jie Zhou
+  - Hongsheng Li
+  - Yu Qiao
+  - Jifeng Dai
+  publisher: arxiv
+  date: '2024-01-19'
+  link: https://arxiv.org/abs/2401.10208
+  type: paper
+  buttons:
+  - type: paper
+    link: https://arxiv.org/abs/2401.10208
+  - type: source
+    text: Code
+    link: https://github.com/OpenGVLab/MM-Interleaved
+  plugin: sources.py
+  file: sources.yaml
+- id: arxiv:2312.14238
+  title: 'InternVL: Scaling up Vision Foundation Models and Aligning for Generic Visual-Linguistic
+    Tasks'
+  authors:
+  - Zhe Chen
+  - Jiannan Wu
+  - Wenhai Wang
+  - Weijie Su
+  - Guo Chen
+  - Sen Xing
+  - Muyan Zhong
+  - Qinglong Zhang
+  - Xizhou Zhu
+  - Lewei Lu
+  - Bin Li
+  - Ping Luo
+  - Tong Lu
+  - Yu Qiao
+  - Jifeng Dai
+  publisher: arxiv
+  date: '2024-01-18'
+  link: https://arxiv.org/abs/2312.14238
+  type: paper
+  buttons:
+  - type: paper
+    link: https://arxiv.org/abs/2312.14238
+  - type: source
+    text: Code
+    link: https://github.com/OpenGVLab/InternVL
+  plugin: sources.py
+  file: sources.yaml
+- id: arxiv:2312.09245
+  title: 'DriveMLM: Aligning Multi-Modal Large Language Models with Behavioral Planning
+    States for Autonomous Driving'
+  authors:
+  - Wenhai Wang
+  - Jiangwei Xie
+  - ChuanYang Hu
+  - Haoming Zou
+  - Jianan Fan
+  - Wenwen Tong
+  - Yang Wen
+  - Silei Wu
+  - Hanming Deng
+  - Zhiqi Li
+  - Hao Tian
+  - Lewei Lu
+  - Xizhou Zhu
+  - Xiaogang Wang
+  - Yu Qiao
+  - Jifeng Dai
+  publisher: arxiv
+  date: '2023-12-27'
+  link: https://arxiv.org/abs/2312.09245
+  type: paper
+  buttons:
+  - type: paper
+    link: https://arxiv.org/abs/2312.09245
+  - type: source
+    text: Code
+    link: https://github.com/OpenGVLab/DriveMLM
+  plugin: sources.py
+  file: sources.yaml
+- id: arxiv:2310.17796
+  title: 'ControlLLM: Augment Language Models with Tools by Searching on Graphs'
+  authors:
+  - Zhaoyang Liu
+  - Zeqiang Lai
+  - Zhangwei Gao
+  - Erfei Cui
+  - Ziheng Li
+  - Xizhou Zhu
+  - Lewei Lu
+  - Qifeng Chen
+  - Yu Qiao
+  - Jifeng Dai
+  - Wenhai Wang
+  publisher: arxiv
+  date: '2023-12-19'
+  link: https://arxiv.org/abs/2310.17796
+  type: paper
+  buttons:
+  - type: paper
+    link: https://arxiv.org/abs/2310.17796
+  - type: source
+    text: Code
+    link: https://github.com/OpenGVLab/ControlLLM
+  plugin: sources.py
+  file: sources.yaml
+- id: arxiv:2312.09238
+  title: 'Auto MC-Reward: Automated Dense Reward Design with Large Language Models
+    for Minecraft'
+  authors:
+  - Hao Li
+  - Xue Yang
+  - Zhaokai Wang
+  - Xizhou Zhu
+  - Jie Zhou
+  - Yu Qiao
+  - Xiaogang Wang
+  - Hongsheng Li
+  - Lewei Lu
+  - Jifeng Dai
+  publisher: arxiv
+  date: '2023-12-15'
+  link: https://arxiv.org/abs/2312.09238
+  type: paper
+  buttons:
+  - type: paper
+    link: https://arxiv.org/abs/2312.09238
+  - type: source
+    text: Code
+    link: https://yangxue0827.github.io/auto_mc-reward.html
   plugin: sources.py
   file: sources.yaml
