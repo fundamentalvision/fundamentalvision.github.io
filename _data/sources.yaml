@@ -410,3 +410,85 @@
     - type: source
       text: Code
       link: http://www.stat.ucla.edu/~yang.lu/Project/generativeCNN/main.html
+
+# ------ Below are updated on 2024/02/21 ------
+
+- id: arxiv:2401.06197
+  type: paper
+  publisher: arxiv
+  buttons:
+    - type: paper
+      link: https://arxiv.org/abs/2401.06197
+    - type: source
+      text: Code
+      link: https://github.com/OpenGVLab/DCNv4
+
+- id: arxiv:2401.10208
+  type: paper
+  publisher: arxiv
+  buttons:
+    - type: paper
+      link: https://arxiv.org/abs/2401.10208
+    - type: source
+      text: Code
+      link: https://github.com/OpenGVLab/MM-Interleaved
+
+- id: arxiv:2312.14238
+  type: paper
+  publisher: arxiv
+  buttons:
+    - type: paper
+      link: https://arxiv.org/abs/2312.14238
+    - type: source
+      text: Code
+      link: https://github.com/OpenGVLab/InternVL
+
+- id: arxiv:2312.09245
+  type: paper
+  publisher: arxiv
+  buttons:
+    - type: paper
+      link: https://arxiv.org/abs/2312.09245
+    - type: source
+      text: Code
+      link: https://github.com/OpenGVLab/DriveMLM
+
+- id: arxiv:2310.17796
+  type: paper
+  publisher: arxiv
+  buttons:
+    - type: paper
+      link: https://arxiv.org/abs/2310.17796
+    - type: source
+      text: Code
+      link: https://github.com/OpenGVLab/ControlLLM
+
+- id: arxiv:2312.09238
+  type: paper
+  publisher: arxiv
+  buttons:
+    - type: paper
+      link: https://arxiv.org/abs/2312.09238
+    - type: source
+      text: Code
+      link: https://yangxue0827.github.io/auto_mc-reward.html
+
+- id: arxiv:2308.01907
+  type: paper
+  publisher: arxiv
+  buttons:
+    - type: paper
+      link: https://arxiv.org/abs/2308.01907
+    - type: source
+      text: Code
+      link: https://github.com/OpenGVLab/all-seeing
+
+- id: arxiv:2305.11175
+  type: paper
+  publisher: arxiv
+  buttons:
+    - type: paper
+      link: https://arxiv.org/abs/2305.11175
+    - type: source
+      text: Code
+      link: https://github.com/OpenGVLab/VisionLLM
