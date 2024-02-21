@@ -16,6 +16,7 @@
 - id: arxiv:2010.04159
   type: paper
   publisher: ICLR 2021 (Oral)
+  date: '2021-05-04'
   image: images/2010.04159.png
   description: "<img src=\"https://img.shields.io/github/stars/fundamentalvision/Deformable-DETR\" style=\"margin:5px ;vertical-align: middle\"> <a href=\"https://www.paperdigest.org/2022/02/most-influential-iclr-papers-2022-02/\"><button style=\"padding: 10px; display: inline-flex; font-family: var(--heading); font-weight: var(--semi-bold); background-color: #0ea5e9; color: white; border: none; border-radius: 10px; margin: 5px; gap: 10px; max-width: calc(100% - 5px - 5px); vertical-align: middle; cursor: pointer;\">2nd of the most influential papers in ICLR 2021</button></a>"
   buttons:
@@ -415,7 +416,7 @@
 
 - id: arxiv:2401.06197
   type: paper
-  publisher: arxiv
+  publisher: Arxiv Tech Report 2024
   buttons:
     - type: paper
       link: https://arxiv.org/abs/2401.06197
@@ -425,7 +426,7 @@
 
 - id: arxiv:2401.10208
   type: paper
-  publisher: arxiv
+  publisher: Arxiv Tech Report 2024
   buttons:
     - type: paper
       link: https://arxiv.org/abs/2401.10208
@@ -435,7 +436,7 @@
 
 - id: arxiv:2312.14238
   type: paper
-  publisher: arxiv
+  publisher: Arxiv Tech Report 2024
   buttons:
     - type: paper
       link: https://arxiv.org/abs/2312.14238
@@ -445,7 +446,7 @@
 
 - id: arxiv:2312.09245
   type: paper
-  publisher: arxiv
+  publisher: Arxiv Tech Report 2023
   buttons:
     - type: paper
       link: https://arxiv.org/abs/2312.09245
@@ -455,7 +456,7 @@
 
 - id: arxiv:2310.17796
   type: paper
-  publisher: arxiv
+  publisher: Arxiv Tech Report 2023
   buttons:
     - type: paper
       link: https://arxiv.org/abs/2310.17796
@@ -465,7 +466,7 @@
 
 - id: arxiv:2312.09238
   type: paper
-  publisher: arxiv
+  publisher: Arxiv Tech Report 2023
   buttons:
     - type: paper
       link: https://arxiv.org/abs/2312.09238
@@ -475,7 +476,7 @@
 
 - id: arxiv:2308.01907
   type: paper
-  publisher: arxiv
+  publisher: ICLR 2024
   buttons:
     - type: paper
       link: https://arxiv.org/abs/2308.01907
@@ -485,7 +486,7 @@
 
 - id: arxiv:2305.11175
   type: paper
-  publisher: arxiv
+  publisher: NeurIPS 2023
   buttons:
     - type: paper
       link: https://arxiv.org/abs/2305.11175
