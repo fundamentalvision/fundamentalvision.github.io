@@ -17,4 +17,5 @@ Coming soon......
 
 {% include search-info.html %}
 
-{% include list.html data="posts" component="post-excerpt" %}
+<!-- {% include list.html data="posts" component="post-excerpt" %} -->
+{% include list.html component="card" data="posts" %}
