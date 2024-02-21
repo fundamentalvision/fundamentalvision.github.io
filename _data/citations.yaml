@@ -247,7 +247,7 @@
   - Xiaogang Wang
   - Jifeng Dai
   publisher: ICLR 2021 (Oral)
-  date: '2021-03-19'
+  date: '2021-05-04'
   link: https://arxiv.org/abs/2010.04159
   type: paper
   image: images/2010.04159.png
@@ -687,7 +687,7 @@
   - Jie Zhou
   - Yu Qiao
   - Jifeng Dai
-  publisher: arxiv
+  publisher: NeurIPS 2023
   date: '2023-05-26'
   link: https://arxiv.org/abs/2305.11175
   type: paper
@@ -856,7 +856,7 @@
   - Tong Lu
   - Jifeng Dai
   - Yu Qiao
-  publisher: arxiv
+  publisher: ICLR 2024
   date: '2023-08-04'
   link: https://arxiv.org/abs/2308.01907
   type: paper
@@ -1204,7 +1204,7 @@
   - Lewei Lu
   - Jie Zhou
   - Jifeng Dai
-  publisher: arxiv
+  publisher: Arxiv Tech Report 2024
   date: '2024-01-15'
   link: https://arxiv.org/abs/2401.06197
   type: paper
@@ -1233,7 +1233,7 @@
   - Hongsheng Li
   - Yu Qiao
   - Jifeng Dai
-  publisher: arxiv
+  publisher: Arxiv Tech Report 2024
   date: '2024-01-19'
   link: https://arxiv.org/abs/2401.10208
   type: paper
@@ -1264,7 +1264,7 @@
   - Tong Lu
   - Yu Qiao
   - Jifeng Dai
-  publisher: arxiv
+  publisher: Arxiv Tech Report 2024
   date: '2024-01-18'
   link: https://arxiv.org/abs/2312.14238
   type: paper
@@ -1296,7 +1296,7 @@
   - Xiaogang Wang
   - Yu Qiao
   - Jifeng Dai
-  publisher: arxiv
+  publisher: Arxiv Tech Report 2023
   date: '2023-12-27'
   link: https://arxiv.org/abs/2312.09245
   type: paper
@@ -1322,7 +1322,7 @@
   - Yu Qiao
   - Jifeng Dai
   - Wenhai Wang
-  publisher: arxiv
+  publisher: Arxiv Tech Report 2023
   date: '2023-12-19'
   link: https://arxiv.org/abs/2310.17796
   type: paper
@@ -1348,7 +1348,7 @@
   - Hongsheng Li
   - Lewei Lu
   - Jifeng Dai
-  publisher: arxiv
+  publisher: Arxiv Tech Report 2023
   date: '2023-12-15'
   link: https://arxiv.org/abs/2312.09238
   type: paper
