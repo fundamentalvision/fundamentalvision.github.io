@@ -34,7 +34,7 @@
   description: InternImage-H 在 COCO 物体检测上达到 65.4 mAP，ADE20K 达到 62.9，刷新检测分割新纪录。
 
 - title: 本实验室提出 Deformable DETR：基于稀疏空间采样的注意力机制，让DCN与Transformer一起玩！
-  image: images/zhuanlan.zhihu.com/p/372116181.png
+  image: images/zhuanlan.zhihu.com-p-372116181.png
   link: https://zhuanlan.zhihu.com/p/372116181
   description: DETR提出后，Transformer就被带到目标检测这边玩起来了，而且还能玩出各种花样！
 
