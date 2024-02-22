@@ -6,6 +6,6 @@ links:
   google-scholar: qHqQsY4AAAAJ
 ---
 
-<div>
+<div style="margin-top: 100px">
   {% include button.html type="home-page" link="https://cpsxhao.github.io/" style="bare" %}
 </div>
