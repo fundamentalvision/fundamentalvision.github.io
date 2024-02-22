@@ -23,9 +23,5 @@ Our laboratory is now hiring interns, master students, Ph.D. students, postdocto
 
 ## Alumni
 {% include list.html data="members" component="portrait" filters="role: former" style="small" %}
-{% include portrait.html name="Tianwen Fu" style="small" %}
-{% include portrait.html name="Hao Tian" style="small" %}
-{% include portrait.html name="Yue Cao" style="small" %}
-
 
 {% include section.html %}
