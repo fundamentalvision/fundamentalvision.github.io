@@ -1,6 +1,7 @@
 - id: arxiv:1605.06409
   type: paper
   publisher: NeurIPS 2016
+  date: '2016-12-05'
   image: images/1605.06409.png
   description: "<img src=\"https://img.shields.io/github/stars/daijifeng001/R-FCN\" style=\"margin:5px ;vertical-align: middle\"> <img src=\"https://img.shields.io/github/stars/YuwenXiong/py-R-FCN\" style=\"margin:5px ;vertical-align: middle\"> <a href=\"https://www.paperdigest.org/2022/02/most-influential-nips-papers-2022-02/\"><button style=\"padding: 10px; display: inline-flex; font-family: var(--heading); font-weight: var(--semi-bold); background-color: #0ea5e9; color: white; border: none; border-radius: 10px; margin: 5px; gap: 10px; max-width: calc(100% - 5px - 5px); vertical-align: middle; cursor: pointer;\">3rd of the most influential papers in NIPS 2016</button></a> <a href=\"https://pytorch.org/vision/main/generated/torchvision.ops.ps_roi_pool.html\"><button style=\"padding: 10px; display: inline-flex; font-family: var(--heading); font-weight: var(--semi-bold); background-color: #0ea5e9; color: white; border: none; border-radius: 10px; margin: 5px; gap: 10px; max-width: calc(100% - 5px - 5px); vertical-align: middle; cursor: pointer;\">Pytorch visual operator library</button></a>"
   buttons:
@@ -65,6 +66,7 @@
 - id: arxiv:1512.04412
   type: paper
   publisher: CVPR 2016 (Oral)
+  date: '2016-06-26'
   image: images/1512.04412.png
   description: "<img src=\"https://img.shields.io/github/stars/daijifeng001/MNC\" style=\"margin:5px ;vertical-align: middle\"> <button style=\"padding: 10px; display: inline-flex; font-family: var(--heading); font-weight: var(--semi-bold); background-color: #0ea5e9; color: white; border: none; border-radius: 10px; margin: 5px; gap: 10px; max-width: calc(100% - 5px - 5px); vertical-align: middle; cursor: pointer;\">COCO 2015 Segmentation Challenge Championship</button>"
   buttons:
@@ -77,6 +79,7 @@
 - id: arxiv:1811.11168
   type: paper
   publisher: CVPR 2019
+  date: '2019-06-16'
   image: images/1811.11168.png
   description: "<img src=\"https://img.shields.io/github/stars/msracver/Deformable-ConvNets\" style=\"margin:5px ;vertical-align: middle\">"
   buttons:
@@ -156,6 +159,7 @@
 - id: arxiv:1412.1283
   type: paper
   publisher: CVPR 2015
+  date: '2015-06-08'
   image: images/1412.1283.png
   buttons:
     - type: paper
@@ -177,6 +181,7 @@
   type: paper
   publisher: CVPR 2022
   image: images/2112.01522.png
+  date: '2022-06-19'
   description: "<img src=\"https://img.shields.io/github/stars/fundamentalvision/Uni-Perceiver\" style=\"margin:5px ;vertical-align: middle\">"
   buttons:
     - type: paper
@@ -201,6 +206,7 @@
   type: paper
   publisher: CVPR 2023 (Highlight)
   image: images/2211.09808.png
+  date: '2023-06-18'
   buttons:
     - type: paper
       link: https://arxiv.org/abs/2211.09808
@@ -233,6 +239,7 @@
   type: paper
   publisher: CVPR 2023 (Highlight)
   image: images/2211.10439.png
+  date: '2023-06-18'
   buttons:
     - type: paper
       link: https://arxiv.org/abs/2211.10439
@@ -275,7 +282,7 @@
 
 - id: arxiv:2211.05781
   type: paper
-  publisher: Arxiv Tech Report 2022
+  publisher: Arxiv Tech Report 2023
   buttons:
     - type: paper
       link: https://arxiv.org/abs/2211.05781
@@ -286,6 +293,7 @@
 - id: arxiv:2211.09807
   type: paper
   publisher: CVPR 2023 (Highlight)
+  date: '2023-06-18'
   buttons:
     - type: paper
       link: https://arxiv.org/abs/2211.09807
@@ -296,6 +304,7 @@
 - id: arxiv:2206.01204
   type: paper
   publisher: CVPR 2023 (Highlight)
+  date: '2023-06-18'
   buttons:
     - type: paper
       link: https://arxiv.org/abs/2206.01204
@@ -326,6 +335,7 @@
 - id: arxiv:2103.14026
   type: paper
   publisher: CVPR 2022
+  date: '2022-06-19'
   buttons:
     - type: paper
       link: https://arxiv.org/abs/2103.14026
@@ -350,6 +360,7 @@
 - id: arxiv:2010.07930
   type: paper
   publisher: ICLR 2021
+  date: '2021-05-04'
   buttons:
     - type: paper
       link: https://arxiv.org/abs/2010.07930
@@ -477,6 +488,7 @@
 - id: arxiv:2308.01907
   type: paper
   publisher: ICLR 2024
+  date: '2024-05-07'
   buttons:
     - type: paper
       link: https://arxiv.org/abs/2308.01907
