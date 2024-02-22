@@ -210,7 +210,7 @@
   - Kaiming He
   - Jian Sun
   publisher: NeurIPS 2016
-  date: '2023-12-12'
+  date: '2016-12-05'
   link: https://arxiv.org/abs/1605.06409
   type: paper
   image: images/1605.06409.png
@@ -380,7 +380,7 @@
   - Kaiming He
   - Jian Sun
   publisher: CVPR 2016 (Oral)
-  date: '2015-12-15'
+  date: '2016-06-26'
   link: https://arxiv.org/abs/1512.04412
   type: paper
   image: images/1512.04412.png
@@ -406,7 +406,7 @@
   - Stephen Lin
   - Jifeng Dai
   publisher: CVPR 2019
-  date: '2018-11-29'
+  date: '2019-06-16'
   link: https://arxiv.org/abs/1811.11168
   type: paper
   image: images/1811.11168.png
@@ -557,7 +557,7 @@
   - Kaiming He
   - Jian Sun
   publisher: CVPR 2015
-  date: '2016-11-18'
+  date: '2015-06-08'
   link: https://arxiv.org/abs/1412.1283
   type: paper
   image: images/1412.1283.png
@@ -608,7 +608,7 @@
   - Xiaohua Wang
   - Jifeng Dai
   publisher: CVPR 2022
-  date: '2021-12-03'
+  date: '2022-06-19'
   link: https://arxiv.org/abs/2112.01522
   type: paper
   image: images/2112.01522.png
@@ -663,7 +663,7 @@
   - Wenhai Wang
   - Jifeng Dai
   publisher: CVPR 2023 (Highlight)
-  date: '2022-11-18'
+  date: '2023-06-18'
   link: https://arxiv.org/abs/2211.09808
   type: paper
   image: images/2211.09808.png
@@ -759,7 +759,7 @@
   - Jie Zhou
   - Jifeng Dai
   publisher: CVPR 2023 (Highlight)
-  date: '2022-11-21'
+  date: '2023-06-18'
   link: https://arxiv.org/abs/2211.10439
   type: paper
   image: images/2211.10439.png
@@ -857,7 +857,7 @@
   - Jifeng Dai
   - Yu Qiao
   publisher: ICLR 2024
-  date: '2023-08-04'
+  date: '2024-05-07'
   link: https://arxiv.org/abs/2308.01907
   type: paper
   buttons:
@@ -883,7 +883,7 @@
   - Xiaogang Wang
   - Yu Qiao
   - Jifeng Dai
-  publisher: Arxiv Tech Report 2022
+  publisher: Arxiv Tech Report 2023
   date: '2023-12-04'
   link: https://arxiv.org/abs/2211.05781
   type: paper
@@ -909,7 +909,7 @@
   - Jie Zhou
   - Jifeng Dai
   publisher: CVPR 2023 (Highlight)
-  date: '2022-11-22'
+  date: '2023-06-18'
   link: https://arxiv.org/abs/2211.09807
   type: paper
   buttons:
@@ -933,7 +933,7 @@
   - Xiaogang Wang
   - Jifeng Dai
   publisher: CVPR 2023 (Highlight)
-  date: '2022-11-17'
+  date: '2023-06-18'
   link: https://arxiv.org/abs/2206.01204
   type: paper
   buttons:
@@ -998,7 +998,7 @@
   - Gao Huang
   - Xizhou Zhu
   publisher: CVPR 2022
-  date: '2021-03-26'
+  date: '2022-06-19'
   link: https://arxiv.org/abs/2103.14026
   type: paper
   buttons:
@@ -1054,7 +1054,7 @@
   - Gao Huang
   - Jifeng Dai
   publisher: ICLR 2021
-  date: '2020-12-04'
+  date: '2021-05-04'
   link: https://arxiv.org/abs/2010.07930
   type: paper
   buttons:
