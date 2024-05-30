@@ -270,15 +270,15 @@
 
 # ------ Above are the highlight papers ------
 
-- id: arxiv:2308.01907
-  type: paper
-  publisher: Arxiv Tech Report 2023
-  buttons:
-    - type: paper
-      link: https://arxiv.org/abs/2308.01907
-    - type: source
-      text: Code
-      link: https://github.com/opengvlab/all-seeing
+# - id: arxiv:2308.01907
+#   type: paper
+#   publisher: Arxiv Tech Report 2023
+#   buttons:
+#     - type: paper
+#       link: https://arxiv.org/abs/2308.01907
+#     - type: source
+#       text: Code
+#       link: https://github.com/opengvlab/all-seeing
 
 - id: arxiv:2211.05781
   type: paper
@@ -427,7 +427,7 @@
 
 - id: arxiv:2401.06197
   type: paper
-  publisher: Arxiv Tech Report 2024
+  publisher: CVPR 2024 (Highlight)
   buttons:
     - type: paper
       link: https://arxiv.org/abs/2401.06197
@@ -447,13 +447,16 @@
 
 - id: arxiv:2312.14238
   type: paper
-  publisher: Arxiv Tech Report 2024
+  publisher: CVPR 2024 (Oral)
+  description: "<img src=\"https://img.shields.io/github/stars/OpenGVLab/InternVL\" style=\"margin:5px ;vertical-align: middle\"> <a href=\"https://www.paperdigest.org/2022/02/most-influential-iclr-papers-2022-02/\"><button style=\"padding: 10px; display: inline-flex; font-family: var(--heading); font-weight: var(--semi-bold); background-color: #0ea5e9; color: white; border: none; border-radius: 10px; margin: 5px; gap: 10px; max-width: calc(100% - 5px - 5px); vertical-align: middle; cursor: pointer;\">2nd of the most influential papers in ICLR 2021</button></a>"
   buttons:
     - type: paper
       link: https://arxiv.org/abs/2312.14238
     - type: source
       text: Code
       link: https://github.com/OpenGVLab/InternVL
+    - type: website
+      link: https://internvl.github.io/
 
 - id: arxiv:2312.09245
   type: paper
@@ -505,3 +508,38 @@
     - type: source
       text: Code
       link: https://github.com/OpenGVLab/VisionLLM
+
+# ------ Below are updated on 2024/05/30 ------
+
+- id: arxiv:2402.19474
+  type: paper
+  publisher: Arxiv Tech Report 2024
+  buttons:
+    - type: paper
+      link: https://arxiv.org/abs/2402.19474
+    - type: source
+      text: Code
+      link: https://github.com/OpenGVLab/all-seeing
+
+- id: arxiv:2403.02308
+  type: paper
+  publisher: Arxiv Tech Report 2024
+  buttons:
+    - type: paper
+      link: https://arxiv.org/abs/2403.02308
+    - type: source
+      text: Code
+      link: https://github.com/OpenGVLab/Vision-RWKV
+
+- id: arxiv:2404.16821
+  type: paper
+  publisher: Arxiv Tech Report 2024
+  description: "<img src=\"https://img.shields.io/github/stars/OpenGVLab/InternVL\" style=\"margin:5px ;vertical-align: middle\"> <a href=\"https://www.paperdigest.org/2022/02/most-influential-iclr-papers-2022-02/\"><button style=\"padding: 10px; display: inline-flex; font-family: var(--heading); font-weight: var(--semi-bold); background-color: #0ea5e9; color: white; border: none; border-radius: 10px; margin: 5px; gap: 10px; max-width: calc(100% - 5px - 5px); vertical-align: middle; cursor: pointer;\">2nd of the most influential papers in ICLR 2021</button></a>"
+  buttons:
+    - type: paper
+      link: https://arxiv.org/abs/2404.16821
+    - type: source
+      text: Code
+      link: https://github.com/OpenGVLab/InternVL
+    - type: website
+      link: https://internvl.github.io/
