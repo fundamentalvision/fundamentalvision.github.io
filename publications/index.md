@@ -57,6 +57,8 @@ We try our best to do research with long-term impact.
 
 {% include citation.html lookup="BoxSup: Exploiting Bounding Boxes to Supervise Convolutional Networks for Semantic Segmentation" style="rich" %}
 
+{% include citation.html lookup="InternVL: Scaling up Vision Foundation Models and Aligning for Generic Visual-Linguistic Tasks" style="rich" %}
+
 {% include section.html %}
 
 ## All
