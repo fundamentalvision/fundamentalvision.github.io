@@ -445,10 +445,12 @@
       text: Code
       link: https://github.com/OpenGVLab/MM-Interleaved
 
+# Highlighted
 - id: arxiv:2312.14238
   type: paper
   publisher: CVPR 2024 (Oral)
-  description: "<img src=\"https://img.shields.io/github/stars/OpenGVLab/InternVL\" style=\"margin:5px ;vertical-align: middle\"> <a href=\"https://www.paperdigest.org/2022/02/most-influential-iclr-papers-2022-02/\"><button style=\"padding: 10px; display: inline-flex; font-family: var(--heading); font-weight: var(--semi-bold); background-color: #0ea5e9; color: white; border: none; border-radius: 10px; margin: 5px; gap: 10px; max-width: calc(100% - 5px - 5px); vertical-align: middle; cursor: pointer;\">2nd of the most influential papers in ICLR 2021</button></a>"
+  image: images/2312.14238.png
+  description: "<img src=\"https://img.shields.io/github/stars/OpenGVLab/InternVL\" style=\"margin:5px ;vertical-align: middle\">"
   buttons:
     - type: paper
       link: https://arxiv.org/abs/2312.14238
@@ -534,7 +536,6 @@
 - id: arxiv:2404.16821
   type: paper
   publisher: Arxiv Tech Report 2024
-  description: "<img src=\"https://img.shields.io/github/stars/OpenGVLab/InternVL\" style=\"margin:5px ;vertical-align: middle\"> <a href=\"https://www.paperdigest.org/2022/02/most-influential-iclr-papers-2022-02/\"><button style=\"padding: 10px; display: inline-flex; font-family: var(--heading); font-weight: var(--semi-bold); background-color: #0ea5e9; color: white; border: none; border-radius: 10px; margin: 5px; gap: 10px; max-width: calc(100% - 5px - 5px); vertical-align: middle; cursor: pointer;\">2nd of the most influential papers in ICLR 2021</button></a>"
   buttons:
     - type: paper
       link: https://arxiv.org/abs/2404.16821
