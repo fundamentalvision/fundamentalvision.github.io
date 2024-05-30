@@ -141,11 +141,11 @@
   - Jacob D Krol
   - Joseph T Burke
   - Samuel Z Chen
-  - Lo Sosinski
+  - Lo M Sosinski
   - Faisal S Alquaddoomi
   - Evan P Brenner
   - Ethan P Wolfe
-  - Vince P Rubinetti
+  - Vincent P Rubinetti
   - Shaddai Amolitos
   - Kellen M Reason
   - John B Johnston
@@ -838,36 +838,6 @@
     link: https://github.com/OpenGVLab/GITM
   plugin: sources.py
   file: sources.yaml
-- id: arxiv:2308.01907
-  title: 'The All-Seeing Project: Towards Panoptic Visual Recognition and Understanding
-    of the Open World'
-  authors:
-  - Weiyun Wang
-  - Min Shi
-  - Qingyun Li
-  - Wenhai Wang
-  - Zhenhang Huang
-  - Linjie Xing
-  - Zhe Chen
-  - Hao Li
-  - Xizhou Zhu
-  - Zhiguo Cao
-  - Yushi Chen
-  - Tong Lu
-  - Jifeng Dai
-  - Yu Qiao
-  publisher: ICLR 2024
-  date: '2024-05-07'
-  link: https://arxiv.org/abs/2308.01907
-  type: paper
-  buttons:
-  - type: paper
-    link: https://arxiv.org/abs/2308.01907
-  - type: source
-    text: Code
-    link: https://github.com/OpenGVLab/all-seeing
-  plugin: sources.py
-  file: sources.yaml
 - id: arxiv:2211.05781
   title: Demystify Transformers & Convolutions in Modern Image Deep Networks
   authors:
@@ -1204,7 +1174,7 @@
   - Lewei Lu
   - Jie Zhou
   - Jifeng Dai
-  publisher: Arxiv Tech Report 2024
+  publisher: CVPR 2024 (Highlight)
   date: '2024-01-15'
   link: https://arxiv.org/abs/2401.06197
   type: paper
@@ -1234,7 +1204,7 @@
   - Yu Qiao
   - Jifeng Dai
   publisher: Arxiv Tech Report 2024
-  date: '2024-01-19'
+  date: '2024-04-03'
   link: https://arxiv.org/abs/2401.10208
   type: paper
   buttons:
@@ -1264,16 +1234,24 @@
   - Tong Lu
   - Yu Qiao
   - Jifeng Dai
-  publisher: Arxiv Tech Report 2024
+  publisher: CVPR 2024 (Oral)
   date: '2024-01-18'
   link: https://arxiv.org/abs/2312.14238
   type: paper
+  description: '<img src="https://img.shields.io/github/stars/OpenGVLab/InternVL"
+    style="margin:5px ;vertical-align: middle"> <a href="https://www.paperdigest.org/2022/02/most-influential-iclr-papers-2022-02/"><button
+    style="padding: 10px; display: inline-flex; font-family: var(--heading); font-weight:
+    var(--semi-bold); background-color: #0ea5e9; color: white; border: none; border-radius:
+    10px; margin: 5px; gap: 10px; max-width: calc(100% - 5px - 5px); vertical-align:
+    middle; cursor: pointer;">2nd of the most influential papers in ICLR 2021</button></a>'
   buttons:
   - type: paper
     link: https://arxiv.org/abs/2312.14238
   - type: source
     text: Code
     link: https://github.com/OpenGVLab/InternVL
+  - type: website
+    link: https://internvl.github.io/
   plugin: sources.py
   file: sources.yaml
 - id: arxiv:2312.09245
@@ -1349,7 +1327,7 @@
   - Lewei Lu
   - Jifeng Dai
   publisher: Arxiv Tech Report 2023
-  date: '2023-12-15'
+  date: '2024-04-02'
   link: https://arxiv.org/abs/2312.09238
   type: paper
   buttons:
@@ -1358,5 +1336,147 @@
   - type: source
     text: Code
     link: https://yangxue0827.github.io/auto_mc-reward.html
+  plugin: sources.py
+  file: sources.yaml
+- id: arxiv:2308.01907
+  title: 'The All-Seeing Project: Towards Panoptic Visual Recognition and Understanding
+    of the Open World'
+  authors:
+  - Weiyun Wang
+  - Min Shi
+  - Qingyun Li
+  - Wenhai Wang
+  - Zhenhang Huang
+  - Linjie Xing
+  - Zhe Chen
+  - Hao Li
+  - Xizhou Zhu
+  - Zhiguo Cao
+  - Yushi Chen
+  - Tong Lu
+  - Jifeng Dai
+  - Yu Qiao
+  publisher: ICLR 2024
+  date: '2024-05-07'
+  link: https://arxiv.org/abs/2308.01907
+  type: paper
+  buttons:
+  - type: paper
+    link: https://arxiv.org/abs/2308.01907
+  - type: source
+    text: Code
+    link: https://github.com/OpenGVLab/all-seeing
+  plugin: sources.py
+  file: sources.yaml
+- id: arxiv:2402.19474
+  title: 'The All-Seeing Project V2: Towards General Relation Comprehension of the
+    Open World'
+  authors:
+  - Weiyun Wang
+  - Yiming Ren
+  - Haowen Luo
+  - Tiantong Li
+  - Chenxiang Yan
+  - Zhe Chen
+  - Wenhai Wang
+  - Qingyun Li
+  - Lewei Lu
+  - Xizhou Zhu
+  - Yu Qiao
+  - Jifeng Dai
+  publisher: Arxiv Tech Report 2024
+  date: '2024-04-18'
+  link: https://arxiv.org/abs/2402.19474
+  type: paper
+  buttons:
+  - type: paper
+    link: https://arxiv.org/abs/2402.19474
+  - type: source
+    text: Code
+    link: https://github.com/OpenGVLab/all-seeing
+  plugin: sources.py
+  file: sources.yaml
+- id: arxiv:2403.02308
+  title: 'Vision-RWKV: Efficient and Scalable Visual Perception with RWKV-Like Architectures'
+  authors:
+  - Yuchen Duan
+  - Weiyun Wang
+  - Zhe Chen
+  - Xizhou Zhu
+  - Lewei Lu
+  - Tong Lu
+  - Yu Qiao
+  - Hongsheng Li
+  - Jifeng Dai
+  - Wenhai Wang
+  publisher: Arxiv Tech Report 2024
+  date: '2024-03-08'
+  link: https://arxiv.org/abs/2403.02308
+  type: paper
+  buttons:
+  - type: paper
+    link: https://arxiv.org/abs/2403.02308
+  - type: source
+    text: Code
+    link: https://github.com/OpenGVLab/Vision-RWKV
+  plugin: sources.py
+  file: sources.yaml
+- id: arxiv:2404.16821
+  title: How Far Are We to GPT-4V? Closing the Gap to Commercial Multimodal Models
+    with Open-Source Suites
+  authors:
+  - Zhe Chen
+  - Weiyun Wang
+  - Hao Tian
+  - Shenglong Ye
+  - Zhangwei Gao
+  - Erfei Cui
+  - Wenwen Tong
+  - Kongzhi Hu
+  - Jiapeng Luo
+  - Zheng Ma
+  - Ji Ma
+  - Jiaqi Wang
+  - Xiaoyi Dong
+  - Hang Yan
+  - Hewei Guo
+  - Conghui He
+  - Botian Shi
+  - Zhenjiang Jin
+  - Chao Xu
+  - Bin Wang
+  - Xingjian Wei
+  - Wei Li
+  - Wenjian Zhang
+  - Bo Zhang
+  - Pinlong Cai
+  - Licheng Wen
+  - Xiangchao Yan
+  - Min Dou
+  - Lewei Lu
+  - Xizhou Zhu
+  - Tong Lu
+  - Dahua Lin
+  - Yu Qiao
+  - Jifeng Dai
+  - Wenhai Wang
+  publisher: Arxiv Tech Report 2024
+  date: '2024-05-01'
+  link: https://arxiv.org/abs/2404.16821
+  type: paper
+  description: '<img src="https://img.shields.io/github/stars/OpenGVLab/InternVL"
+    style="margin:5px ;vertical-align: middle"> <a href="https://www.paperdigest.org/2022/02/most-influential-iclr-papers-2022-02/"><button
+    style="padding: 10px; display: inline-flex; font-family: var(--heading); font-weight:
+    var(--semi-bold); background-color: #0ea5e9; color: white; border: none; border-radius:
+    10px; margin: 5px; gap: 10px; max-width: calc(100% - 5px - 5px); vertical-align:
+    middle; cursor: pointer;">2nd of the most influential papers in ICLR 2021</button></a>'
+  buttons:
+  - type: paper
+    link: https://arxiv.org/abs/2404.16821
+  - type: source
+    text: Code
+    link: https://github.com/OpenGVLab/InternVL
+  - type: website
+    link: https://internvl.github.io/
   plugin: sources.py
   file: sources.yaml
